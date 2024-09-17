@@ -8,4 +8,4 @@ I have uploaded the metadata folder since it was only 38mbs so its smaller enoug
 
 ![image](https://github.com/user-attachments/assets/27a3142e-4d9a-4f10-ac6b-aaf90f1263cd)
 
-This is the repo folder looks like locally
+This is what my repo folder looks like locally
