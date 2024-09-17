@@ -1,0 +1,706 @@
+scene_heading: EXT. MARIGOLD PATH - DUSK
+
+text: A path of marigold petals leads up to an altar lovingly
+      arranged in a humble cemetery. An old woman lights a candle
+      as the smoke of burning copal wood dances lyrically upward...
+	The smoke lifts up toward lines of papel picado ­- cut paper
+      banners -- that sway gently in the breeze.
+
+speaker_heading: MIGUEL (V.O.)
+
+dialog: Sometimes I think I'm cursed...
+                  'cause of something that happened
+                  before I was even born.
+
+text: A story begins to play out on the papel picado.
+
+speaker_heading: MIGUEL (V.O.)
+
+dialog: See, a long time ago there was this
+                  family.
+
+text: The images on the papel picado come to life to illustrate a
+      father, a mother, and a little girl. The family is happy.
+
+speaker_heading: MIGUEL (V.O.)
+
+dialog: The papá, he was a musician.
+
+text: The papá plays guitar while the mother dances with her
+      daughter.
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: He and his family would sing, and
+                  dance, and count their blessings...
+                      (beat)
+                  But he also had a dream... to play
+                  for the world.
+                      (beat)
+                  And one day he left with his
+                  guitar... and never returned.
+
+text:  The man walks down a road, guitar slung on his back. In
+      another vignette his daughter stands in the doorway, watching
+      her papá leave. Two feet step up next to her. It is her
+      mamá, hardened. She shuts the door.
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: And the mamá...? She didn't have
+                  time to cry over that walkaway
+                  musician!
+                      (beat)
+                  After banishing all music from her
+                  life...
+
+text: The woman gets rid of all of her husband's instruments and
+      records.
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: She found a way to provide for her
+                  daughter...
+                      (beat)
+                  She rolled up her sleeves and she
+                  learned to make shoes.
+                      (beat)
+                  She could have made candy!
+
+text: Amongst the papel picado, a stick swings at a strung up
+      piñata which bursts with candy...
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: Or fireworks!
+
+text: Fireworks go off in the background...
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: Or sparkly underwear for wrestlers!
+
+text: Sparkly underwear and a luchador mask hang on a line amongst
+      other linens...
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: But no... she chose shoes...
+
+text: On the papel picado, the little girl becomes a young woman.
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: Then she taught her daughter to
+                  make shoes. And later, she taught
+                  her son-in-law.
+
+text: She introduces a suitor to the family business.
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog:          Then her grandkids got roped in.
+                  As her family grew, so did the
+                  business.
+
+text: In the next vignette, a bunch of goofy grandchildren join in
+      the shoemaking. The shoe shop is full of family!
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: Music had torn her family apart,
+                  but shoes held them all together.
+                      (beat)
+                  You see, that woman was my great-
+                  great grandmother, Mamá Imelda.
+
+scene_heading: OFRENDA ROOM - DAY
+
+text: where a photo sits at the top of a beautiful altar. The
+      photo features MAMÁ IMELDA -- serious, formidable. She holds
+      a baby on her lap. Her husband stands beside her, but his
+      face has been torn away.
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: She died WAY before I was born.
+                  But my family still tells her story
+                  every year on Día de los Muertos --
+                  the Day of the Dead...
+                      (beat)
+                  And her little girl?
+
+text: Fade from the face of the little girl to present day MAMÁ
+      COCO (97), a living raisin, convalescing in a wicker
+      wheelchair.
+
+speaker_heading: MIGUEL (V.O.) 
+
+dialog: She's my great grandmother, Mamá
+                  Coco.
+
+text:  A boy (12) walks into frame and kisses her on the cheek.
+      This is our narrator, MIGUEL.
+
+speaker_heading: MIGUEL
+
+dialog: Holá, Mamá Coco.
+
+speaker_heading: MAMÁ COCO
+
+dialog: How are you, Julio?
+
+speaker_heading: MIGUEL (V.O.)
+
+dialog: Actually, my name is Miguel. Mamá
+                  Coco has trouble remembering
+                  things... But it's good to talk to
+                  her anyway. So I tell her pretty
+                  much everything.
+
+scene_heading: EXT. COURTYARD
+
+speaker_heading: MIGUEL
+
+dialog: I used to run like this...
+
+text: Miguel pumps his arms with his hands in fists. Then he
+      switches to flat palms.
+
+speaker_heading: MIGUEL
+
+dialog: But now I run like this which is
+                  way faster!
+
+scene_heading: INT. MAMÁ COCO'S ROOM
+
+text: Miguel, in a luchador mask, climbs onto the bed, arms raised.
+
+speaker_heading: MIGUEL
+
+dialog:  And the winner is... Luchadora
+                  Coco!
+
+text: Miguel leaps off the bed onto a pile of pillows that bursts,
+      sending feathers onto Mamá Coco who wears a mask of her own.
+
+scene_heading: EXT. DINING AREA
+
+text: Miguel leans toward Mamá Coco at the dinner table.
+
+speaker_heading: MIGUEL
+
+dialog: I have a dimple on this side, but
+                  not on this side. Dimple. No
+                  dimple. Dimple. No dimple--
+
+speaker_heading: ABUELITA
+
+dialog: Miguel!   Eat your food.
+
+text: Miguel's ABUELITA (70s) runs the table like a ship captain.
+      She gives Mamá Coco a kiss on the head.
+
+speaker_heading: MIGUEL (V.O.)
+
+dialog: My Abuelita? She's Mamá Coco's
+                  daughter.
+
+txet: Abuelita piles extra tamales on Miguel's plate.
+
+speaker_heading: ABUELITA
+
+dialog:     Aw, you're a twig, mijo.         Have some
+                  more.
+
+speaker_heading: MIGUEL 
+
+dialog: No, gracias.
+
+speaker_heading: ABUELITA
+
+dialog:  I asked if you would like more
+                  tamales.
+
+speaker_heading: MIGUEL 
+
+dialog: S-sí?
+
+speaker_heading: ABUELITA
+
+dialog: That's what I THOUGHT you said.
+
+speaker_heading: MIGUEL (V.O.)
+
+dialog: Abuelita runs our house just like
+                  Mamá Imelda did.
+
+scene_heading: INT. OFRENDA ROOM - DAY
+
+text: Abuelita adjusts the photo of her beloved Mamá Imelda. Then
+      she perks her ear at a hooting sound.
+
+scene_heading: INT. KITCHEN - MOMENTS LATER
+
+text:   Miguel idly blows into a glass soda bottle.     Abuelita takes
+      the bottle away.
+
+speaker_heading: ABUELITA
+
+dialog: No music!
+
+scene_heading: INT. MAMÁ COCO'S ROOM - DAY
+
+text: Miguel listens as a truck drives by the window, blaring radio
+      tunes. Abuelita angrily slams the window shut.
+
+speaker_heading: ABUELITA
+
+dialog: No music!!
+
+scene_heading: EXT. STREET - EVENING
+
+text: A trio of gentlemen serenade each other as they stroll by the
+      family compound.
+
+speaker_heading: MUSICIANS
+
+dialog:  (singing) AUNQUE LA VIDA--
+
+text: Abuelita bursts out of the gate and chases them away.
+
+speaker_heading: ABUELITA
+
+dialog: NO MUSIC!!!
+
+text: Terrified, the musicians stumble as they run away.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: I think we're the only family in
+                  México who hates music...
+
+scene_heading: INT. RIVERA WORKSHOP - DAY
+
+text: We see the Rivera family tinkering in the shoe shop, no music
+      to be heard. Miguel jogs past them.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: And my family's fine with that...
+
+text: He grabs his shine box, and heads out of the shoe shop.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: But me?
+
+speaker_heading: MAMÁ
+
+dialog: Be back by lunch, mijo!
+
+speaker_heading: MIGUEL 
+
+dialog: Love you, Mamá!
+
+scene_heading:  SANTA CECILIA - MORNING
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: I am NOT like the rest of my
+                  family...
+
+text: He passes a woman sweeping a stoop.
+
+speaker_heading: WOMAN
+
+dialog: Hola, Miguel!
+
+speaker_heading: MIGUEL
+
+dialog: Hola!
+
+text: He passes a band of musicians playing a tune. Miguel joins
+      with some air guitar and the further down the street he goes,
+      the more instruments and sounds layer in. The bells of the
+      church chime in harmony, a radio blares a cumbia rhythm.
+ Running past a food stand, Miguel grabs a roll of pan dulce
+      and tosses the vendor a coin.
+
+speaker_heading: MIGUEL
+
+dialog: Muchas gracias!
+
+speaker_heading: STREET VENDOR
+
+dialog: De nada, Miguel!
+
+text: As Miguel passes all these scenes, the music synthesizes and
+      he can't help but tap out rhythms along a table of alebrijes.
+      The fantastical wooden animal sculptures each play a
+      different tone like a marimba. Miguel finishes with a SMACK
+      on a trash can, out of which a pops up a scrappy hairless
+      Xolo dog. The dog, DANTE, barks and jumps up to lick Miguel,
+      who laughs.
+
+speaker_heading: MIGUEL
+
+dialog: Hey, hey!    Dante!
+
+text: Miguel holds the pan dulce over Dante's head.
+
+speaker_heading: MIGUEL
+
+dialog:  Sit. Down. Roll over.        Shake.
+                  Fist bump.
+
+text: Dante obeys to the best of his ability.
+
+speaker_heading: MIGUEL
+
+dialog: Good boy, Dante!
+
+text: Miguel tosses the pan dulce to his furless friend who topples
+      back into the trash can.
+
+scene_heading: MARIACHI PLAZA - MOMENTS LATER
+
+text: Miguel rounds the corner toward the town square. Vendors
+      sell sugar skulls and marigolds, and musicians fill the
+      square with music.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: I know I'm not supposed to love
+                  music -- but it's not my fault!
+                      (beat)
+                  It's his: Ernesto de la Cruz...
+
+text: Miguel approaches a statue of a handsome mariachi at the
+      heart of the plaza.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: ...The greatest musician of all
+                  time.
+
+text: A tour group and their TOUR GUIDE are gathered around the
+      base of the statue.
+
+speaker_heading: TOUR GUIDE
+
+dialog: And right here, in this very plaza,
+                  the young Ernesto de la Cruz took
+                  his first steps toward becoming the
+                  most beloved singer in Mexican
+                  history!
+
+text: CLIPS of de la Cruz in his hay day: playing as a young man in
+      the plaza, serenading bystanders in a train car...
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: He started out a total nobody from
+                  Santa Cecilia, like me. But when
+                  he played music, he made people
+                  fall in love with him.
+
+text: MORE CLIPS from de la Cruz's films. He leaps from a tree
+      branch onto a galloping horse. He plays his signature skull
+      guitar with flourish and flair.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: He starred in movies. He had the
+                  coolest guitar... He could fly!
+
+text: A CLIP features de la Cruz dressed as a hovering priest, held
+      up by strings, in front of a cycling sky flat.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: And he wrote the best songs! But
+                  my all-time favorite? It's--
+
+text: A CLIP of de la Cruz performing in a fancy nightclub.
+
+speaker_heading: DE LA CRUZ
+
+dialog: (singing)
+                 REMEMBER ME
+                  THOUGH I HAVE TO SAY GOODBYE
+                  REMEMBER ME
+                  DON'T LET IT MAKE YOU CRY
+                  FOR EVEN IF I'M FAR AWAY
+                  I HOLD YOU IN MY HEART
+                  I SING A SECRET SONG TO YOU
+                  EACH NIGHT WE ARE APART
+                  REMEMBER ME
+			 (MORE)
+
+speaker_heading: DE LA CRUZ (CONT'D)
+
+dialog: THOUGH I HAVE TO TRAVEL FAR
+                  REMEMBER ME
+                  EACH TIME YOU HEAR A SAD GUITAR
+                  KNOW THAT I'M WITH YOU THE ONLY WAY
+                  THAT I CAN BE...
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: He lived the kind of life you dream
+                  about... Until 1942...
+
+text: As the audience swoons over de la Cruz, an absent-minded
+      stagehand leans on a lever. Ropes and pulleys go flying.
+
+speaker_heading: DE LA CRUZ
+
+dialog:         UNTIL YOU'RE IN MY ARMS AGAIN
+                  REMEMBER ME!
+
+text: De la Cruz is subsequently crushed by a giant bell.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: When he was crushed by a giant
+                  bell.
+
+scene_heading: MARIACHI PLAZA - DAY
+
+text: Miguel gazes up at the statue of de la Cruz in awe.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog: I wanna be just like him.
+
+scene_heading: EXT. CEMETERY - MOMENTS LATER
+
+text:       Miguel weaves up to de la Cruz's mausoleum and peeks in the
+      window. He catches a glimpse of de la Cruz's signature skull
+      guitar.
+
+speaker_heading: MIGUEL (V.O)
+
+dialog:  Sometimes, I look at de la Cruz and
+                  I get this feeling... like we're
+                  connected somehow. Like, if HE
+                  could play music, maybe someday I
+                  could too...
+
+scene_heading:  EXT. MARIACHI PLAZA - DAY
+
+speaker_heading: MIGUEL (CONT'D)
+
+dialog: ...If it wasn't for my family.
+
+speaker_heading: PLAZA MARIACHI
+
+dialog: (playful)
+                  Ay, ay, ay, muchacho.
+
+speaker_heading: MIGUEL
+
+dialog: Huh?
+
+speaker_heading: PLAZA MARIACHI
+
+dialog: I asked for a shoe shine, not your
+                  life story.
+
+text: Miguel comes out of his reverie and looks up at the PLAZA
+      MARIACHI whose shoes he is shining.
+
+speaker_heading: MIGUEL
+
+dialog: Oh, yeah, sorry.
+
+text: He goes back to scrubbing the man's shoe.    As Miguel shines,
+      the mariachi plucks his guitar idly.
+
+speaker_heading: MIGUEL
+
+dialog:  I just can't really talk about any
+                  of this at home so...
+
+speaker_heading: PLAZA MARIACHI
+
+dialog: Look, if I were you I'd march right
+                  up to my family and say, "Hey! I'm
+                  a musician. Deal with it!"
+
+speaker_heading: MIGUEL
+
+dialog: I could never say that...
+
+speaker_heading: PLAZA MARIACHI
+
+dialog: You ARE a musician, no?
+
+speaker_heading: MIGUEL
+
+dialog: I don't know. I mean... I only
+                  really play for myself--
+
+speaker_heading: PLAZA MARIACHI
+
+dialog: Did de la Cruz become the world's
+                  best musician by hiding his sweet,
+                  sweet skills? No! He walked out
+                  onto that plaza and he played out
+                  loud!
+
+text: The mariachi gets an idea. He points to the gazebo where
+      organizers are setting up for a show. They unfurl a canvas
+      poster which reads "TALENT SHOW."
+
+speaker_heading: PLAZA MARIACHI (CONT'D)
+
+dialog: Ah, mira, mira! They're setting up
+                  for tonight. The music competition
+                  for Día de Muertos. You wanna be
+                  like your hero? You should sign
+                  up!
+
+speaker_heading: MIGUEL
+
+dialog: Uh-uh, my family would freak!
+
+speaker_heading: PLAZA MARIACHI
+
+dialog: Look, if you're too scared, then,
+                  well... have fun making shoes.
+
+text: Miguel considers this.
+
+speaker_heading: PLAZA MARIACHI (CONT'D)
+
+dialog: C'mon.    What did de la Cruz always
+                  say?
+
+speaker_heading: MIGUEL
+
+dialog: ...Seize your moment?
+
+text: The mariachi appraises Miguel, then offers his guitar.
+
+speaker_heading: PLAZA MARIACHI
+
+dialog:  Show me what you got, muchacho.
+                  I'll be your first audience.
+
+text: Miguel's brows rise, surprised. He reaches to take the
+      instrument, regarding it as if holding a holy relic.
+      Miguel spreads his fingers across the strings anticipating
+      his chord and...
+
+speaker_heading: ABUELITA (O.S.)
+
+dialog: MIGUEL!
+
+text: Startled, Miguel impulsively throws the guitar back onto the
+      mariachi's lap. He turns to see Abuelita marching toward
+      him. Miguel's TÍO BERTO (40s) and PRIMA ROSA (16), follow
+      with supplies from the market.
+
+speaker_heading: MIGUEL
+
+dialog: Abuelita!
+
+speaker_heading: ABUELITA
+
+dialog: What are you doing here?
+
+speaker_heading: MIGUEL
+
+dialog: Um...uh...
+
+text: Miguel quickly packs away his shine rag and polishes.
+      Abuelita barrels up to the mariachi.
+      She hits his hat with her shoe and waves him away.
+
+speaker_heading: ABUELITA
+
+dialog: You leave my grandson alone!
+
+speaker_heading: PLAZA MARIACHI
+
+dialog: Doña, please -- I was just getting
+                  a shine!
+
+speaker_heading: ABUELITA
+
+dialog: I know your tricks, mariachi!
+                      (to Miguel)
+                  What did he say to you?
+
+speaker_heading: MIGUEL
+
+dialog:   He was just showing me his
+                  guitar...
+
+text: Gasps from the family.
+
+speaker_heading: TÍO BERTO
+
+dialog: Shame on you!
+
+text: Abuelita lords over the mariachi, shoe aimed directly between
+      his eyes.
+
+speaker_heading: ABUELITA
+
+dialog: My grandson is a sweet little
+                  angelito querido cielito -- he
+                  wants no part of your music,
+                  mariachi! You keep away from him!
+
+text: The mariachi scrambles away, snatching his hat off the
+      ground before he goes. Abuelita hugs Miguel protectively to
+      her bosom.
+
+speaker_heading: ABUELITA
+
+dialog: Ay, pobrecito! Estás bien, mijo?
+
+text:       She peppers him with kisses then releases him from the
+      embrace. He gasps for air.
+
+speaker_heading: ABUELITA
+
+dialog:  (distressed)
+                  You know better than to be here in
+                  this place! You will come home.
+                  Now.
+
+text: Abuelita turns toward home. Miguel sighs and gathers his
+      shine box. Then, seeing a flyer for the plaza "TALENT SHOW",
+      he can't help but pocket it. He follows Abuelita.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

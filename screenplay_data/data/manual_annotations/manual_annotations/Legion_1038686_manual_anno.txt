@@ -1,0 +1,179 @@
+text: THE MOJAVE DESERT - DUSK
+          Vast.    Barren.   No signs of life.
+          A BLOOD RED SUN is sinking behind the distant mountains.    The
+          unbearable heat will soon become an unbearable cold.
+          A YOUNG WOMAN'S VOICE.    Solemn.   Weary.   Determined.
+
+speaker_heading: WOMAN'S VOICE
+
+dialog:   When I was a little girl, my mother
+                      would remind me each night before
+                      bed to be sure to open my heart to
+                      God, for he was kind, merciful and
+                      just. Things changed after my
+                      father left a few years later,
+                      leaving her to raise me and my
+                      brothers alone in a little place
+                      out on the edge of the Mojave
+                      Desert. She never talked about a
+                      kind and merciful God again.
+                      Instead she spoke of a prophecy.
+                      Of a time when all the world would
+                      be covered in darkness and the fate
+                      of Mankind would be decided. One
+                      night I finally got up the courage
+                      to ask my mother why God had
+                      changed, why was he mad at his
+                      children. "I don't know," she
+                      said, tucking the covers around me,
+                      "I guess he just got tired of all
+                      the bullshit."
+
+text: And with these words the last trace of sunlight is SNUFFED
+          OUT, leaving us in:
+          DARKNESS...
+          A darkness filled with the sounds of SIRENS, GLASS
+          SHATTERING, SPORADIC GUNFIRE...a CITY FALLING INTO CHAOS.
+          TITLE:   "Los Angeles, December 23rd - 1:02 a.m."
+A BLOOD RED MOON
+          reflected in a greasy puddle of water. Might just be the
+          smog that's making it that ominous color. Then we notice
+          something moving in the reflection. A dark shape, growing,
+          coming down at us fast. Beat...then WHAM!
+
+          TWO BLACK BOOTS
+          land hard in the water...and we're in:
+
+scene_heading: EXT. AN ALLEY WAY - LATE NIGHT
+
+text:  A DARK FIGURE in a tattered trench coat tumbles onto the
+          pavement, hands out to slow the impact. A beat then slowly
+          he climbs to his feet, recovering from what seems to have
+          been quite a fall. He has chiseled features, shaved head,
+          deep-set eyes. Looks like he's been through one hell of a
+          fight.
+          His name, we will come to know, is MICHAEL.
+          He quickly checks out his surroundings, nothing but brick
+          walls above him. Where'd this guy jump from?
+          A RUMBLE of thunder...then RAIN starts to hammer down.   Seems
+          to motivate him.
+          Michael pulls his overcoat tight around his body and dashes
+          toward the mouth of the alley. He reaches the STREET just in
+          time to see a FLEET OF POLICE CARS tearing around the corner,
+          SIRENS WAILING, heading this way.
+          He reels back into the alley way, ducks down behind a trash
+          dumpster, as the BLUE AND RED LIGHTS of the POLICE CARS whip
+          past.
+          Michael waits for the lights to disappear, then he pulls a
+          MASSIVE ORNATE KNIFE from his jacket. Considers it grimly.
+          Runs his finger along its edge. Blood beads up. Razor
+          sharp.
+          Michael begins to peel off his overcoat, revealing his bare
+          chest underneath...and skin literally covered with DARK
+          TATOOS. Hard to see what they are in this light.
+          As his coat falls to the ground, we DRIFT over to the BRICK
+          WALL behind him where we see MICHAEL'S SHADOW crouch over,
+          and then...
+          ...TWO LARGE SHAPES UNFOLD FROM HIS BACK, STRETCHING UP INTO
+          WHAT ARE UNMISTAKABLY...THE SHADOW OF WINGS.
+          The RAIN POUNDS harder, as if punishment from the heavens.
+          The glint of the KNIFE coming down fast.
+          A HORRENDOUS SOUND OF FLESH TEARING AWAY FROM BONE...
+          ...THE BLOODY KNIFE CLATTERING TO THE PAVEMENT...
+          ...FOLLOWED BY MICHAEL'S UNGODLY SCREAM RISING UP FROM THE
+          ALLEY WAY. And then SILENCE...
+          CLOSE ON THE GUTTER, AS BLOOD BEGINS TO FLOW FREELY, MIXING,
+          SWIRLING WITH THE RAIN...
+
+scene_heading:           EXT. CITY STREET - A SHORT WHILE LATER
+
+text: Michael, face tight with pain, trench coat back on, steps out
+          of the alley, stares with determination at a dark storefront
+          across the street.
+          "GUN SPORT WORLD"
+
+scene_heading: INT. GUN &amp; SPORT WORLD - A SHORT WHILE LATER
+
+text:  Cavernous. A Costco for survivalists.    Quiet except for the
+          sound of RAIN, then...
+          SMASH! Michael drops down through one of the skylights in a
+          shower of glass.
+
+scene_heading: INT. GUN &amp; SPORT WORLD - BATHROOM - MOMENTS LATER
+
+text:  Michael bursts in. Tosses a first-aid kit into the sink.
+          His trench coat falls to the floor and here in the
+          fluorescent light, we get a better look at him.
+          His thin but stunningly well muscled body is TATTOOED
+          shoulder to ankle with INTRICATE WRITING. The man's flesh is
+          a living book. But the writing is in no language we
+          recognize.
+          He turns his back to the mirror, revealing two HORRIFICALLY
+          OPEN WOUNDS running down between both shoulder blades.
+          FRESH. BLOODY.
+          He threads a needle not with thread, but with FISHING WIRE,
+          and begins to STITCH the wounds closed. BLOOD POOLS on the
+          cement floor around his feet.
+
+scene_heading: INT. GUN &amp; SPORT WORLD - MOMENTS LATER
+
+text:  Trench coat and a shirt back on, Michael races along the
+          ENDLESS RACKS OF GUNS, searching for just the right weapons,
+          his every movement precise, as if he's trained his whole life
+          for this.
+          Weapon after ferocious weapon gets tossed into rifle bags.
+          Whatever this guy's preparing for, it's big.
+          Rifle bags filled, Michael heads for the exit.   Stops cold.
+          The place is locked up tight.   Metal gate over the front
+          doors, bars over the windows.   How the hell's he going to get
+          out of here?
+
+scene_heading:  INT. LAPD SQUAD CAR - DRIVING - SAME
+
+text: Two COPS, world weary, cruise through downtown. That's
+          BURTON behind the wheel, ESTEVEZ riding shotgun.
+          The POLICE RADIO is ABUZZ WITH ACTIVITY.      Busy night.
+          Burton stares out at the city's rain soaked denizens with a
+          deep hatred, the shadows looming in doorways, the
+          streetwalkers.
+
+speaker_heading: BURTON
+
+dialog: Goddamn' animals. Nights like this
+                    I wish I could take a match to this
+                    city just so I could watch all
+                    these motherfuckers burn.
+
+speaker_heading: ESTEVEZ
+
+dialog: (LAUGHS)
+                    A good ol' boy barbecue, huh?
+
+text: Burton doesn't even smile.       He's dead fucking serious.
+
+speaker_heading: BURTON
+
+dialog: A fresh start. That's what this
+                    place needs.
+
+text: He holds his finger up like a pistol. Aims it at the people
+          they pass, picking them off one by one.
+
+speaker_heading: BURTON
+
+dialog: Pow!   Pow!     Pow!
+
+text: Now Burton laughs, a dark, mean laugh.      Estevez eyes his
+          partner, wary.
+
+speaker_heading: ESTEVEZ
+
+dialog: Jesus... You know Burton, I'm so
+                    happy we get to share beautiful
+                    moments like this. They really
+                    brighten my da--
+
+tex: KABOOM! Through the WINDSHIELD, we see a storefront EXPLODE
+          just ahead, raining fiery debris onto the squad car.
+          Burton slams on the breaks and the cops look up just in time
+          to see...

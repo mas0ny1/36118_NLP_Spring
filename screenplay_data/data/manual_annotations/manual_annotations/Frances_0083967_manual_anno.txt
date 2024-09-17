@@ -1,0 +1,238 @@
+scene_heading:                EXT. PUGET SOUND - DAY
+
+text: On an expanse of water, calm and undisturbed. After a moment, 
+               it begins to ripple as something rises toward the surface. A 
+               girl's face breaks through.
+
+speaker_heading:    FRANCES (V.O.)
+
+dialog:  It wasn't a murder. I think God just 
+                         died of old age. And when I realized 
+                         He wasn't any more, it didn't shock 
+                         me. It seemed natural and right.
+
+text: The girl, FRANCES, is 16, blond, very pretty: she seems like 
+               the most persuasive proof imaginable of God's existence. She 
+               swims toward the shore with long graceful strokes... then 
+               climbs the steps of the old wood jetty on West Point Beach.
+
+speaker_heading:    FRANCES (V.O.)
+
+dialog:  And yet I began to wonder what the 
+                         minister meant when he said, 'God, 
+                         the Father, sees even the smallest 
+                         sparrow fall. He watches over all 
+                         his children.' That jumbled it all 
+                         up for me.
+
+scene_heading: EXT. PUGET SOUND - LATER
+
+text: The banks of Puget Sound, dotted with elm trees. Frances 
+               sits comfortably in the fork of a tree writing in her diary. 
+               Towel around her neck, her hair splayed out and drying golden 
+               in the sun
+
+speaker_heading:    FRANCES (V.O.)
+
+dialog: But still sometimes I found that God 
+                         was useful to remember, especially 
+                         when I lost things that were 
+                         important. 'Please God, let me find 
+                         my red hat with the blue trimmings.'
+
+scene_heading: INT. FARMER HOME - FAMILY ROOM - EVENING
+
+text:  Frances is now reading aloud from her diary, gently swaying 
+               back and forth in a rocking chair. An older woman, LILLIAN 
+               FARMER, sits opposite on the couch, listening and nodding 
+               from time to time. A small suitcase stands by the front door.
+
+speaker_heading:    FRANCES
+
+dialog: It usually worked. God became a 
+                         superfather that couldn't spank me. 
+                         But if I wanted a thing badly enough, 
+                         He arranged it.
+
+text: ERNEST FARMER appears in the doorway and hesitates, listening 
+               to his daughter read.
+
+speaker_heading:    FRANCES
+
+dialog: But if God loved all of His children 
+                         equally, why did He bother about my 
+                         red hat and let other people lose 
+                         their fathers and mothers for always?
+
+text:   Ernest goes to Frances and kisses her softly on the top of 
+               her head. She looks at him briefly, smiling slightly.
+
+speaker_heading:   ERNEST
+
+dialog: Bye, baby.
+
+speaker_heading:    FRANCES
+
+dialog:  See you next weekend, Dad.
+
+text: He goes to the door and picks up his suitcase, glances at 
+               Lillian. She doesn't look up. He leaves.
+
+speaker_heading:    FRANCES
+
+dialog: I began to see that He didn't have 
+                         much to do about hats or people dying 
+                         or anything. They happened whether 
+                         He wanted them to or not, and He 
+                         stayed in Heaven and pretended not 
+                         to notice.
+
+scene_heading:  INT. AUDITORIUM - DAY
+
+text: Frances stands at a podium. Other STUDENTS and TEACHERS sit 
+               to either side of her on folding chairs. Above the proscenium 
+               is engraved: West Seattle High School. Below that a banner 
+               hangs: "NATIONAL HIGH SCHOOL ESSAY COMPETITION, 1931."
+
+speaker_heading:    FRANCES
+
+dialog:  I wondered a little why God was such 
+                         a useless thing. It seemed a waste 
+                         of time to have Him. After that He 
+                         became less and less, until He was... 
+                         nothingness.
+
+text: The AUDIENCE consists of parents, students, and local 
+               dignitaries. We SEE several shocked faces. Lillian is there 
+               also, smiling. Seated next to her is a distinguished-looking 
+               woman, ALMA STYLES. Ernest sits on the other side of the 
+               auditorium, looking a little worried.
+
+speaker_heading:    FRANCES
+
+dialog: I felt rather proud that I had found 
+                         the truth myself, without help from 
+                         anyone. It puzzled me that other 
+                         people hadn't found out, too. God 
+                         was gone. We had reached past Him. 
+                         Why couldn't they see it? It still 
+                         puzzles me.
+
+text: Frances closes her notebook and looks up, waiting for some 
+               response. There is a deep shocked silence, then a smattering 
+               of applause. Lillian claps enthusiastically, then rises to 
+               her feet. In the back a WOMAN also stands.
+
+speaker_heading:  WOMAN
+
+dialog: You're going straight to hell, Frances 
+                         Farmer!
+
+text:  A stately man sitting next to her, her husband JUDGE BENJAMIN 
+               HILLIER, puts a restraining hand on her arm. The woman 
+               continues to glare at Frances.
+               Frances stares back, dumbfounded.
+
+scene_heading:  EXT. SEATTLE STREETS - DAY
+
+text: The screen erupts into violence. A large unruly MOB skirmishes 
+               with POLICE in a cobblestoned square. On a truckbed addressing 
+               the crowd -- which carries placards reading: "Organize Now!", 
+               "Workers of the World Unite!", and "Elect Kaminski!" stands 
+               MARTONI KAMINSKI. By his side, leading the crowd's responses, 
+               stands a younger man with sharp piercing eyes, HARRY YORK.
+
+speaker_heading: KAMINSKI
+
+dialog: And do you think it's radical for a 
+                         man to have a job and feed a family?
+
+scene_heading:  YORK &amp; CROWD
+
+dialog: YORK &amp; CROWD
+
+speaker_heading: KAMINSKI
+
+dialog:  Is it radical for you to have a hand 
+                         in shaping your future, and the future 
+                         of your children?
+
+scene_heading:  YORK &amp; CROWD
+
+dialog:  No!
+
+speaker_heading: KAMINSKI
+
+dialog: Is it radical for the wealth of this 
+                         country to be turned back to the 
+                         people who built the country?
+
+scene_heading:  YORK &amp; CROWD
+
+dialog:  No! No!
+
+speaker_heading: KAMINSKI
+
+dialog:  Good! Because, Brothers, that's you!
+
+text:  The crowd cheers. Harry York gives Kaminski the thumbs-up 
+               sign as a banner unfurls: "Today Seattle -- Tomorrow the 
+               World."
+
+text: A TITLE COMES ON SCREEN: GOD'S IN HIS HEAVEN AND ALL'S RIGHT 
+               WITH THE WORLD? 'NOT SO!' SAYS YOUNG FRANCES FARMER
+               We realize we've been watching a newsreel. We SEE the SCHOOL 
+               SUPERINTENDENT presenting Frances with an award.
+
+speaker_heading: ANNOUNCER
+
+dialog: Seattle is in the news again as a 
+                         high school junior wins a national 
+                         competition and a hundred dollar 
+                         prize with an essay denying God.
+
+text: City Hall steps. Judge Hillier and other BIGWIGS speaking 
+               heatedly to reporters.
+
+speaker_heading: ANNOUNCER
+
+dialog: This prompts civic officials to charge 
+                         that left-wing politicians are 
+                         encouraging atheism in the city's 
+                         schools. Miss Frances Farmer was 
+                         unavailable for comment, but her 
+                         mother Lillian --
+
+text:  Lillian stands in front of her wood frame house addressing a 
+               small CROWD of reporters, photographers, and curious 
+               neighbors.
+
+speaker_heading: ANNOUNCER
+
+dialog:    Farmer, a well-known local dietician, 
+                         stepped to her daughter's defense.
+
+speaker_heading: LILLIAN
+
+dialog: (emphatically)
+                         Frances has not turned her back on 
+                         the Lord, they're just having a 
+                         momentary difference of opinion. 
+                         What child hasn't questioned the 
+                         Lord's mysteries in order to better 
+                         understand them? To paraphrase Mr. 
+                         Voltaire, I may not agree with what 
+                         she says, but I'll defend to the 
+                         death her right to say it. Freedom 
+                         of speech, unlike in the dark 
+                         countries to the east, still lives 
+                         in America! And in my home.
+
+text:  Among the AUDIENCE in the cinema, we SEE Frances and her 
+               father. Frances slinks down in her seat until she's hidden 
+               from sight.
+
+
+
+
+

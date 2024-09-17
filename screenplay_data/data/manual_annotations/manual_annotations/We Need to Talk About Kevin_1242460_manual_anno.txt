@@ -1,0 +1,121 @@
+scene_heading: INT. BEDROOM, DUPLEX - MORNING
+
+text: A red, translucent shadow drips down a bedroom wall like weak
+rain bathing EVA KACHADOURIAN, in it’s eerie glow.
+Fifty years old but looking a good ten older, Eva lies in
+bed, eyes open, staring blankly at the ceiling.
+O.S. beep of a digital alarm clock.
+She slams her hand down on the battered clock, it’s face
+cracked and fixed with tape.
+It’s glowing red digits read
+7.30AM Thursday 26th April 2001
+Disoriented, she sits up and frowns, taking in the unnatural
+hue on her skin.
+Fumbling for her robe, she knocks a bottle of pills from the
+bedside table, they scatter noisily across the floor.
+
+speaker_heading: EVA
+
+dialog: Shit.
+
+text: She drags herself out of bed and walks over to the doorway.
+Feet crunching over the spilt pills.
+Dazed, she wanders down the hall towards the front door,
+squinting as she steps out into the bright morning light.
+
+scene_heading: EXT. RUN DOWN DUPLEX, SUBURBAN STREET - MORNING
+
+text: Shivering a little, she pulls her robe tight around her, she
+walks a little way down the drive then turns to look at the
+building.
+The house looks like it’s had it’s throat slit.
+It’s splattered with red paint, glistening in the sunshine as
+it drips down the woodwork.
+Eva surveys the scene for a moment, her face expressionless,
+she shrugs tiredly and casually pads back into the house,
+closing the door behind her.
+BCU, SAME DIGITAL CLOCK, but brand new, it’s digits read.
+7 AM THURSDAY APRIL 26th 2000.
+Eva’s hand slams down on it.
+
+scene_heading: INT. LARGE RANCH HOUSE KITCHEN - MORNING, ONE YEAR EARLIER.
+
+text: A ticking sound as a bluish gas flame sparks up on the ring.
+O.S. A man’s voice singing badly over the dull thud of a
+shower.
+Eva (49 but looking 10 yrs younger) plops a European style
+coffee pot on top of the range and picks up a spatula,
+flipping a piece of french toast that’s sizzling in a pan.
+
+speaker_heading: LITTLE GIRL (0.S.)
+
+dialog: No slime Mommy!
+
+speaker_heading: EVA
+
+dialog: OK Celie, no slime!
+
+text: She presses the toast firmly into the pan making sure it’s
+crisp before flicking it expertly onto a plate.
+
+scene_heading: INT. KITCHEN - MOMENTS LATER.
+
+text: Viewed from behind. The white blonde hair of CELIA 7, sat at
+the kitchen table.
+EVA leans in towards her face making dabbing motions with a
+little sponge.
+Celia’s feet kicking under the table. She whines and wriggles
+but tries hard to stay still.
+
+speaker_heading: CELIA
+
+dialog: Daddy’s happy, he’s singing.
+
+speaker_heading: EVA
+
+dialog: You could call it that...
+
+text: Eva drops the sponge in the bowl and wipes her hands.
+
+speaker_heading: EVA
+
+dialog: There’s a brave girl. See that’s
+better, not so sticky now.
+
+speaker_heading: CELIA
+
+dialog: No, Not so sticky!
+
+text: Celia throws her arms round Eva’s neck.
+Eva smiles but her eyes are welling up.
+REVERSE ON CELIA;
+A delicate innocent face. ONE EYE BLANK LOOKING, PROSTHETIC,
+stares eerily ahead.
+Eva extricates herself from Celia’s tight hug and turns back
+to the stove brushing her eyes.
+
+speaker_heading: EVA
+
+dialog: Now... eat your breakfast honey.
+
+speaker_heading: CELIA
+
+dialog: Daddy!..
+
+text: FRANKLIN (Good looking, muscular 40’s) bounds into the
+kitchen in a buoyant mood. He kisses the top of Celia’s head
+and whistling, heads for the coffee pot.
+
+speaker_heading: FRANKLIN
+
+dialog: (to Eva)
+Morning.
+
+speaker_heading: EVA
+
+dialog: (without looking up)
+Morning.
+
+text: His hand brushes against Eva’s over the stove. An awkward
+moment, something unspoken in their eyes. Franklin pulls away
+gingerly.

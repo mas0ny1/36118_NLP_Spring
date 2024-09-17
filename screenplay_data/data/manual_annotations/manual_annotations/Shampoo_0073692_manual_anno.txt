@@ -1,0 +1,163 @@
+scene_heading: 	DARK SCREEN - NOVEMBER 4th, 1968
+
+text: A darkness where even outlines are not discernible. There is
+	a dim point of light coming from a dot on the HI-FI which is
+	PLAYING the BEACH BOYS: "When we could say good night and
+	still stay together... wouldn't it be niiiice?... we could be
+	married, then we could be happy, wouldn't it be niiiiice?"
+		Through it there has been the SOUND of BANGING, distinct and
+	rhythmic. It GROWS LOUDER as the MUSIC ENDS. There are also
+	WHIMPERING SOUNDS from a woman.
+
+speaker_heading:   FELICIA'S VOICE
+
+dialog: Oh, no.
+
+speaker_heading: GEORGE'S VOICE
+
+dialog: 	     ... what?...
+
+speaker_heading:   FELICIA'S VOICE
+
+dialog: That headboard.
+
+speaker_heading: GEORGE'S VOICE
+
+dialog: Nobody can hear it.
+
+text: It BANGS a couple of more times.
+
+speaker_heading:   FELICIA'S VOICE
+
+dialog: I can. It makes me nervous.
+
+text: It continues to bang until Felicia screams, over the banging
+	of the headboard. She follows the scream with a few yelps.
+	Silence. Now the SOUND of the PHONE RINGING.
+
+speaker_heading:   FELICIA'S VOICE (CONT'D)
+
+dialog:  (complimentary)
+	     Oh my God... Jesus... Jesus
+	     Christ... Jesus H. Christ.
+
+text: The PHONE CONTINUES TO RING.
+
+speaker_heading:   FELICIA'S VOICE (CONT'D)
+
+dialog: (a slightly different
+	          tone)
+	     You going to answer it?
+
+speaker_heading: GEORGE'S VOICE
+
+dialog:  (meaning no)
+	     Uh-uh.
+
+text: It CONTINUES TO RING.
+
+speaker_heading:   FELICIA'S VOICE 
+
+dialog: (being for her very
+	          mischievous)
+	     Want me to?
+
+speaker_heading: GEORGE'S VOICE
+
+dialog: Let it ring.
+
+text: And it does. It CONTINUES TO RING, killing all other
+	considerations.
+
+speaker_heading:   FELICIA'S VOICE 
+
+dialog: Boy, whoever she is, she doesn't
+	     give up.
+
+text: After a moment's fumbling, George finally picks it up.
+
+speaker_heading: GEORGE'S VOICE
+
+dialog:  Hello...
+	          (a little surprised)
+	     Ah, hi.
+
+text: 	The GIRL'S VOICE on the other end of the phone can be HEARD
+	only FITFULLY, when George holds the receiver loosely by his
+	ear. It is TINA.
+
+speaker_heading:  TINA'S VOICE
+
+dialog: What took you so long?
+
+speaker_heading: GEORGE'S VOICE
+
+dialog: Wasn't sure it was you.
+
+speaker_heading:  TINA'S VOICE
+
+dialog:    (muffled)
+
+speaker_heading: GEORGE'S VOICE
+
+dialog:   I... uh... I... uh... can't.
+
+speaker_heading:  TINA'S VOICE
+
+dialog:  (laughter, sizing it up
+	          immediately)
+	     All right, who're you with? Jill?
+
+speaker_heading: GEORGE'S VOICE
+
+dialog: 	     No.
+
+speaker_heading:  TINA'S VOICE
+
+dialog: (lively but muffled)
+
+speaker_heading: GEORGE'S VOICE
+
+dialog: No.
+
+speaker_heading:  TINA'S VOICE
+
+dialog: (she's heard Felicia)
+	     Awww --
+
+speaker_heading: GEORGE'S VOICE
+
+dialog:  I'll call you back.
+
+speaker_heading:  TINA'S VOICE
+
+dialog: Come on by.
+
+speaker_heading: GEORGE'S VOICE
+
+dialog: 	     I'll call you back...
+
+speaker_heading:  TINA'S VOICE
+
+dialog:  (raucous laughter,
+	          muffled)
+
+speaker_heading: GEORGE'S VOICE
+
+dialog:          (to Tina)
+	     Okay, okay...
+
+text: 	He hangs up. Felicia has fished for a cigarette, lit it and
+	coughed.
+
+speaker_heading:  FELICIA'S VOICE
+
+dialog:  You're rude. I mean, you're very
+	     rude.
+
+speaker_heading: GEORGE'S VOICE
+
+dialog:  Hey, I tried to get her off the
+	     phone.
+
+

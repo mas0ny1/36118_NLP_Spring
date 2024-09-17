@@ -1,0 +1,324 @@
+scene_heading: INT.  CONCOURSE/AIRPORT TERMINAL - BAY
+
+text: CLOSE ON A FACE.  A nine year old boy, YOUNG COLE, his eyes wide
+	with wonder. watching something intently.  We HEAR the sounds of
+	the P.A. SYSTEM droning Flight Information mingled with the
+	sounds of urgent SHOUTS, running FEET, EXCLAMATIONS.
+	YOUNG COLE'S POV:  twenty yards away, a BLONDE MAN is sprawled on
+	the floor, blood oozing from his gaudy Hawaiian shirt.
+	A BRUNETTE in a tight dress, her face obscured from YOUNG COLE'S
+	view, rushes to the injured man, kneels beside him, ministering
+	to his wound.
+	ANGLE ON YOUNG COLE, flanked by his PARENTS, their faces out of
+	view, as they steer him away.
+
+speaker_heading: FATHER'S VOICE (o.s.)
+
+dialog: Come on, Son --this is no place for us.
+
+text: YOUNG COLE resists momentarily, mesmerized by the drama.
+	YOUNG COLE'S POV:  intermittently visible through a confusion of
+	FIGURES rushing through the foreground, the BLONDE MAN reaching
+	up and touching the cheek of the kneeling BRUNETTE in a gesture
+	of enormous tenderness, a gesture of farewell, while the P.A.
+	SYSTEM continues its monotonous monotone...
+
+speaker_heading: P.A. SYSTEM
+
+dialog: Flight 784 for San Francisco is now
+		ready for boarding at inmate number
+		66578, Greely.
+
+scene_heading: INT.  PRISON DORMITORY/FUTURE - ETERNAL NIGHT
+
+speaker_heading: PRISON P.A. SYSTEM
+
+dialog: --number 5429, Garcia -- number 87645, Cole...
+
+text: COLE, late thirties, dark hair, comes awake in a bunk cage, one
+	of many stacked four high along both sides of a long dim
+	corridor.  He blinks in the near dark, shaken, disoriented.
+	Then, as he "recovers" from his very vivid dream, WE GET OUR
+	FIRST LOOK AT HIS ENVIRONMENT...A WINDOWLESS UNDERGROUND WORLD OF
+	ETERNAL NIGHT SOMETIME IN THE FUTURE...AN ALMOST COLORLESS
+	"REALITY" OF BLURRED EDGES AND ECHOEY SOUNDS, MUCH MORE
+	"DREAMLIKE" THAN HIS DREAM.
+	Flashlights glare. In the half-light, COLE sees spooky figures,
+	GUARDS, moving among the locked bunk/cages.
+	COLE turns and whispers to the occupant of the next cage, JOSE...
+
+speaker_heading: COLE
+
+dialog: Ssssst!  Jose, what's going on?
+
+text: JOSE's face is almost lost in shadow.  What there is of it is
+	youthful.  He's just a scared Puerto Rican kid!
+
+speaker_heading: JOSE
+
+dialog: "Volunteers" again.
+
+text: JOSE immediately rolls over and feigns sleep as SCARFACE, a
+	menacing guard with a jagged scar running down his cheek, looms
+	close to COLE's cage and unlocks it.
+
+speaker_heading: SCARFACE
+
+dialog: "Volunteer duty".
+
+text: The PRISONERS in the other cages watch silently with narrowed eyes.
+
+speaker_heading: COLE
+
+dialog: I didn't volunteer.
+
+speaker_heading: SCARFACE
+
+dialog: You causing trouble again?
+
+speaker_heading: COLE
+
+dialog: (controls his temper)
+		No trouble.
+
+scene_heading: INT.  EQUIPMENT ROOM - ETERNAL NIGHT
+
+text: COLE's alone, struggling to get into what looks like a space suit
+	in a room where suits hang like ghosts with blank eyes.
+
+scene_heading: TITLES BEGIN SUPERED OVER THE SCENE
+
+text: COLE has the torso of the suit on now and is trying to close it.
+
+speaker_heading: OFFSCREEN VOICE (o.s.)
+
+dialog: All openings must be closed.
+
+text: COLE looks for the source of the voice, a tiny grate in the wall.
+
+speaker_heading: OFFSCREEN VOICE (o.s.)
+
+dialog: If the integrity of the suit is compromised
+		in any way, if the fabric is torn or a zipper
+		not closed, readmittance will be denied.
+
+scene_heading: INT.  SEALED CHAMBER - MINUTES LATER (ETERNAL NIGHT)
+
+text: COLE, wearing the "space suit" and a helmet with a plastic visor,
+	steps into a tiny chamber, a kind of air lock.  The heavy door
+	clangs shut behind him.  He's alone.  COLE'S breath comes quicker
+	now as he sucks oxygen from the air tanks on his back.
+	On the opposite wall is another door with a huge wheel lock.
+	COLE turns the heavy wheel, opens the door, steps through It
+
+scene_heading: INT.  ELEVATOR - SECONDS LATER (ETERNAL NIGHT)
+
+text: COLE'S in an ascending elevator that groans and creaks.  He looks
+	down at a crudely drawn map he holds in his gloved hand.
+	The map shows a series of tunnels and ladders.
+
+scene_heading: INT.  SEWER PIPE - MINUTES LATER (NIGHT)
+
+text: COLE pans a flashlight, probing the filthy sewer he's wading through RATS flee the blade of light, scurry across islands of rusting junk.
+	The flashlight beam settles on a ladder mounted in the wall.
+	Reaching the rusted ladder, COLE starts to climb awkwardly.
+
+scene_heading: EXT.  CITY STREET/FUTURE - MOMENTS LATER (NIGHT)
+
+text: A SCRAPING NOISE as a heavy man-hole cover is pushed up and moved
+	aside.  COLE'S helmeted head emerges from below.
+	COLE'S POV THROUGH HIS PLASTIC-VISORED HELMET:  a city in
+	moonlight!  A surreal image of abandoned buildings.  No people
+	anywhere.  The only sounds are the WIND and COLE'S BREATHING.
+
+scene_heading: EXT.  ANOTHER CITY STREET - MINUTES LATER (NIGHT)
+
+text: COLE'S light reveals abandoned vine-covered automobiles.	
+	Moving to the nearest car, COLE searches in the vines for
+	something.  Finds it.  An insect.
+	COLE takes the bug in his gloved hand.  As he clumsily inserts it
+	into a collection tube, something makes him turn.
+	There's something across the street in the dark.  Something alive.
+	COLE points his flashlight and reveals...a BEAR!  Startled by the
+	light, the animal blinks, then stands on its rear legs and ROARS.
+	ANGLE ON COLE, staring wide-eyed.
+	Then, the BEAR sinks down onto all fours and, trying to avoid the
+	flashlight, it pads quickly down the street.
+
+scene_heading: INT.  SUBTERRANEAN PARKING GARAGE - NIGHT
+
+text: Using the flashlight to see, COLE reaches down to the cracked
+	floor and gets another specimen.  DOGSHIT!
+	The only sound is COLE'S labored BREATHING.
+	Then, a different SOUND.  GRRRR!  A dog.  More GRRRRS.  More
+	dogs.  Then, a YIP.  Then, VICIOUS GROWLS.  It's a DOGFIGHT!
+
+scene_heading: EXT.  STREET - NIGHT (FIRST LIGHT)
+
+text: A giant OWL, perched on an overhead traffic light, raises its wings
+	and lifts off...rising higher and higher into the brightening sky.
+	Below, on the street, COLE trudges along, passing deserted
+	buildings, windows broken, rusted signs dangling.
+
+scene_heading: INT.  DEPARTMENT STORE - NIGHT (FIRST LIGHT)
+
+text: COLE'S light reveals a spider web just inside the store.  A large
+	SPIDER tries to hide from the light.
+	COLE reaches carefully into the web and plucks the spider and
+	puts it into one of his specimen tubes.
+	Then, he shines his light all around the once elegant store.  There's
+	nothing but aisle after aisle of moldering consumer goods.
+
+scene_heading: EXT.  DEPARTMENT STORE - DAWN
+
+text: As COLE comes out of the store, the first rays of the sun hit the
+	building.  COLE stops, squints into the light through his visor.
+	COLE'S POV:  spray-painted on the wall a long time ago is a stenciled
+	logo of twelve monkeys holding hands in a circle.  Over it is
+	written, "WE DID IT!"
+	COLE looks up.
+	COLE'S POV:  high up on a building across the street, a LION
+	patrols a ledge, pauses, looks out majestically over his world.
+
+scene_heading: INT.  FIRST UNDERGROUND DECONTAMINATION CHAMBER - ETERNAL NIGHT
+
+text: ROARING WATER, powerful torrents gushing from nozzles in the
+	wall, pummel the still-suited COLE.
+
+scene_heading: INT.  SECOND UNDERGROUND DECONTAMINATION CHAMBER - ETERNAL NIGHT
+
+text: Stark naked and shivering, COLE is being scrubbed with brushes on
+	long poles (like the ones used to wash cars) wielded by two HULKING
+	FIGURES in bulky decontamination suits, their personas lost in their
+	windowed masks.  It's a grim scene in a grim cement room with damp,
+	dripping walls.  From an unseen source comes an AMPLIFIED VOICE,
+
+speaker_heading: AMPLIFIED VOICE (o.s.)
+
+dialog: Raise your arms above your head.
+
+text: COLE lifts his arms and the FIGURES start scrubbing his armpits.
+
+scene_heading: INT.  TINY CHAMBER - SHORTLY (ETERNAL NIGHT)
+
+text:  Still naked, COLE is seated on a stool while a MASKED TECHNICIAN
+	in a less elaborate, less bulky decontamination outfit draws
+	blood from COLE'S arm with an old-fashioned hypodermic needle.
+	COLE glances toward a single, nearly opaque "window" of thick
+	plastic in the rusty iron wall.  VAGUE FIGURES seem to lurk
+	behind the translucent aperture, studying him.
+	The TECHNICIAN slips the blood sample through a slot in the wall.
+
+scene_heading: INT.  ENGINEERING OFFICE/FUTURE WORLD - ETERNAL NIGHT
+
+text: Ushered in by two guards, TINY and SCARFACE, COLE looks around.
+COLE'S POV:  wails hidden by old headlines, articles, maps, charts...
+	a blackboard covered with elaborate, sophisticated formulae...surfaces
+	heaped with cracked monitors, gerry-rigged computers held together with
+	string, lasers lost in tangles of cable, ancient tube amplifiers, a
+	dilapidated cardboard reconstruction of a city, stacks of moldering
+	books and tattered computer printouts...and, seated at a long conference
+	table, staring at COLE, six SCIENTISTS:  an ASTROPHYSICIST, ENGINEER,
+	BOTANIST, MICROBIOLOGIST, ZOOLOGIST, and a GEOLOGIST.  They represent
+	a "modern" science where brilliant new ideas interface with crude,
+	outdated, patched-together technologies.
+
+speaker_heading: TINY
+
+dialog: James Cole.  Cleared from quarantine.
+
+speaker_heading: MICROBIOLOGIST
+
+dialog: Thank you.  You two wait outside.
+
+speaker_heading: SCARFACE
+
+dialog: He's got a history, Doctor.  Violence.
+
+text: COLE'S eyes return to the walls.
+Headlines:  "CLOCK TICKING!  NO CURE YET!"
+
+speaker_heading: SCARFACE
+
+dialog: Anti-social six -- doing 25 to life.
+
+speaker_heading: ENGINEER
+
+dialog: I don't think he's going to hurt us.  You're
+		not going to hurt us, are you Mr. Cole?
+
+text: COLE'S head turns quickly to the ENGINEER.
+
+speaker_heading: COLE
+
+dialog: No, sir.
+
+text: The GUARDS exchange a look, shrug, exit, closing the door.
+
+speaker_heading: MICROBIOLOGIST
+
+dialog: Why don't you sit down, Mr. Cole.
+
+text: COLE goes to the empty chair at the conference table, sits down.
+
+speaker_heading: speaker_heading: 
+
+dialog: We want you to tell us about last
+		night.
+
+speaker_heading: BOTANIST
+
+dialog: It's important to observe everything.
+
+speaker_heading: COLE
+
+dialog: I think it was...I'm sure it was 2nd Street.
+
+text: As the SCIENTISTS start to whisper animatedly among themselves,
+	COLE'S eyes drift across the newspaper clippings taped to the
+	wall.  One headline screams, "VIRUS MUTATING!"  Another features
+	a photo of an OLD MAN (DR. MASON, who we'll see again later on)
+	and the words, SCIENTIST SAYS, "IT'S TOO LATE FOR CURE".
+
+speaker_heading: ASTROPHYSICIST'S VOICE (o.s.)
+
+dialog: Close your eyes, Cole.
+
+text: Startled, COLE closes his eyes obediently.
+BLACKNESS.  Like COLE, WE SEE NOTHING.  But we HEAR their VOICES.
+
+speaker_heading: ENGINEER'S VOICE (o.s.)
+
+dialog: Tell us in detail what you've seen in
+		this room.
+
+speaker_heading: COLE'S VOICE (o.s.)
+
+dialog: Uh, in this room?  Uh...
+
+speaker_heading: MICROBIOLOGIST'S VOICE (o.s.)
+
+dialog: How many of us are there?
+
+speaker_heading: COLE'S VOICE (o.s.)
+
+dialog: Six...seven, if you count me.
+
+speaker_heading: ASTROPHYSICIST'S VOICE (o.s.)
+
+dialog: Tell us about the pictures on the wall...
+
+speaker_heading: COLE'S VOICE (o.s.)
+
+dialog: Uh, you mean the newspapers?
+
+speaker_heading: A MONTAGE OF OVERLAPPING VOICES (o.s.)
+
+dialog: Tell us about the newspapers.  Can you
+		hear my voice?  What do I look like?
+		What does he look like, the man who
+		just spoke?  How old were you when you
+		left the surface?
+
+text: The VOICES blur into a cacophony and FADE INTO the droning P.A.
+	SYSTEM at the airport.

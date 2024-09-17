@@ -1,0 +1,642 @@
+scene_heading:  A JUNGLE - NIGHT
+
+text: A BUNNY nervously walks through the dark, foreboding forest,
+   frightened by every shadow and moving leaf.
+
+speaker_heading: YOUNG JUDY (V.O.)
+
+dialog: Fear. Treachery. Bloodlust!
+          Thousands of years ago, these were
+          the forces that ruled our world. A
+          world where prey were scared of
+          predators. And predators had an
+          uncontrollable biological urge to
+          maim and maul and...
+
+text: The timpani crescendos. A JAGUAR leaps out of the shadows,
+   attacks the bunny, who screams--
+
+scene_heading:  INSIDE A BARN - A JUNGLE (SET) - NIGHT
+
+text: The action continues-- as imagined by an amateur stage
+   production.
+
+speaker_heading: YOUNG JUDY
+
+dialog: Blood, blood, blood!
+
+text: Reams of red papier mâché entrails ooze from the bunny. And
+   when those run out-- projectile ketchup.
+   Reveal: These are ANIMAL KID ACTORS. The bunny, JUDY HOPPS,
+   10, is our hero. And this is her play being staged. A banner
+   reads: CARROT DAYS TALENT SHOW!
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: And death.
+
+text: The CROWD looks on, confused. The music goes discordant as
+   BOBBY CATMULL, a bobcat, bangs a drum.
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: Back then, the world was divided in
+          two. Vicious predator or Meek prey.
+
+text: TWO BOXES drop down, labeled VICIOUS PREDATOR and MEEK PREY.
+The PREDATOR box lands on the jaguar. The MEEK PREY box lands
+on Judy. Her entrails get stuck outside the box. She drags
+them underneath with her.
+
+speaker_heading: YOUNG JUDY (O.S.) (CONT'D)
+
+dialog: But over time, we evolved, and
+          moved beyond our primitive savage
+          ways.
+
+text: A YOUNG SHEEP wearing a white muumuu and a cardboard rainbow
+on his head does an improvisational dance across the stage.
+Judy and the jaguar burst out of their boxes, now wearing
+white muumuus, too.
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: Now, predator and prey live in
+          harmony.
+
+text: Judy and the jaguar shake hands as the sheep throws glitter.
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: And every young mammal has
+          multitudinous opportunities.
+
+speaker_heading: ASTRONAUT SHEEP
+
+dialog: Yeah, I don't have to cower in a
+          herd anymore.
+
+text: 
+The Jaguar rips off his muumuu. She's wearing a homemade
+astronaut costume.
+
+speaker_heading: ASTRONAUT SHEEP (CONT'D)
+
+dialog: Instead I can be an astronaut.
+
+text: Catmull plays a slide whistle.
+
+speaker_heading: ACTUARY JAGUAR
+
+dialog:  I don't have to be a lonely hunter
+          any more.
+
+text: The Jaguar rips off his muumuu. He's dressed in a suit.
+
+speaker_heading: ACTUARY
+
+dialog: Today I can hunt for tax
+          exemptions. I'm gonna be an
+          actuary!
+
+speaker_heading: YOUNG JUDY
+
+dialog: And I can make the world a better
+          place! I am going to be...
+
+text: Catmull plays a 70s-style cop show theme on the boom box.
+Judy rips off her muumuu, revealing a POLICE OFFICER UNIFORM.
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: A police officer!
+
+text: Judy's parents, BONNIE &amp; STU, look stunned. A mean fox kid,
+GIDEON GREY, snickers. He's sitting next to a WEASEL KID.
+
+speaker_heading: GIDEON GREY
+
+dialog: Bunny cop. That is the most
+          stupidest thing I ever heard.
+
+speaker_heading: YOUNG JUDY
+
+dialog: It may seem impossible to small
+          minds-- (points at Gideon)
+          I'm looking at you Gideon Grey.
+
+text: Catmull drops down a backdrop showing a bright city skyline.
+He hits play on an uplifting song.
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: But just 211 miles away stands the
+          great city of Zootopia! Where our
+          ancestors first joined together in
+          peace, and declared that anyone can
+          be anything! Thank you and good
+          night!
+
+text: Judy gives a mighty thespian bow, to the sound of Catmull on
+organ. The audience applauds. Judy's parents look concerned.
+
+scene_heading: EXT. CARROT DAYS FESTIVAL - LATER THAT DAY
+
+text: A festival replete with food booths, games and rides-- all
+aggressively carrot-themed. Judy, in her Cop Costume, bounces
+along with her folks. We catch their conversation mid-stream.
+
+speaker_heading: STU HOPPS
+
+dialog: Judy, you ever wonder how your mom
+          and me got to be so darn happy?
+
+speaker_heading:  YOUNG JUDY
+
+dialog: Nope.
+
+speaker_heading: STU HOPPS
+
+dialog: Well, we gave up on our dreams and
+          we settled, right Bon?
+
+speaker_heading: BONNIE HOPPS
+
+dialog: Oh yes, that's right, Stu. We
+          settled hard.
+
+speaker_heading: STU HOPPS
+
+dialog: See, that's the beauty of
+          complacency, Jude. If you don't try
+          anything new, you'll never fail.
+
+speaker_heading: YOUNG JUDY
+
+dialog: I like trying, actually.
+
+speaker_heading: BONNIE HOPPS
+
+dialog: What your father means, hon, is
+          it's gonna be difficult--
+          impossible even-- for you to become
+          a police officer.
+
+speaker_heading: STU HOPPS
+
+dialog:Right. There's never been a bunny
+          cop.
+
+speaker_heading: BONNIE HOPPS
+
+dialog: No.
+
+speaker_heading: STU HOPPS
+
+dialog: Bunnies don't do that.
+
+speaker_heading: BONNIE HOPPS
+
+dialog: Never.
+
+speaker_heading: STU HOPPS
+
+dialog: Never.
+
+speaker_heading: YOUNG JUDY
+
+dialog: Oh. Then I guess I'll have to be
+          the first one. Because I am gonna
+          make the world...
+              (parkours against a
+               vendor's stand)
+          A better place!
+
+speaker_heading: STU HOPPS
+
+dialog: OR... um, heck, you wanna talk
+          about making the world a better
+          place--
+
+text: The trio arrives at the Hopps Family Farm carrot booth, which
+is manned by too many children to count.
+
+speaker_heading: STU HOPPS (CONT'D)
+
+dialog:  --no better way to do it than
+          becoming a carrot farmer.
+
+speaker_heading: BONNIE HOPPS
+
+dialog: Yes! Your dad, me, your 275
+          brothers and sisters-- we're
+          changing the world.
+
+speaker_heading: STU HOPPS
+
+dialog: Yep.
+
+speaker_heading: BONNIE HOPPS
+
+dialog: One carrot at a time...
+
+speaker_heading: STU HOPPS
+
+dialog: Amen to that. Carrot farming is a
+          noble profession.
+
+text: Judy spots GIDEON GREY stalking some SMALL ANIMALS. She
+remains fixed on Gideon as Stu and Bonnie yap on obliviously.
+
+speaker_heading:  BONNIE HOPPS (O.S.)
+
+dialog: Mmm hmm. Just putting the seeds in
+          the ground.
+
+speaker_heading: STU HOPPS
+
+dialog: Ahh, at one with the soil.
+
+text: We're back on Bonnie and Stu's conversation now.
+
+speaker_heading:  BONNIE HOPPS
+
+dialog:  You get it. I mean, it's great to
+          have dreams.
+
+speaker_heading: STU HOPPS
+
+dialog: Yeah, just as long as you don't
+          believe in em too much.
+              (finally noticing Judy's absence)
+          Where in the heck'd she go?
+
+text: ACROSS THE FAIR... From behind a tree, Judy watches as Gideon
+Grey intimidates the astronaut sheep, SHARLA.
+
+speaker_heading: GIDEON GREY
+
+dialog: Gimme your tickets right now, or
+          I'm gonna kick your meek little
+          sheep butt.
+
+speaker_heading: SHARLA
+
+dialog: Ow! Cut it out, Gideon!
+
+speaker_heading: GIDEON GREY
+
+dialog: Baa-baa. What're ya gonna do, cry?
+
+text: Gideon swipes Sharla's fair tickets.
+
+speaker_heading: YOUNG JUDY (O.S.)
+
+dialog: Hey!
+
+text: Judy charges toward the danger.
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: You heard her. Cut it out.
+
+text: Gideon turns. There's Judy, projecting the image of a tiny
+Clint Eastwood.
+
+speaker_heading: GIDEON GREY
+
+dialog: Nice costume, loser. What crazy
+          world are you living in where you
+          think a bunny could be a cop?
+
+speaker_heading: YOUNG JUDY
+
+dialog: Kindly return my friends' tickets.
+
+text: Gideon pats the tickets in his pocket.
+
+speaker_heading: GIDEON GREY
+
+dialog: Come and get `em.... But watch out,
+          `cause I'm a fox-- and like you
+          said in your dumb little stage
+          play, us predators used to eat
+          prey. And that killer instinct's
+          still in our Dunnahh.
+
+speaker_heading: TRAVIS THE WOLF HENCHMAN KID
+
+dialog: (sotto, to Gideon)
+          Uh, I'm pretty much sure it's
+          pronounced D-N-A.
+
+speaker_heading: GIDEON GREY
+
+dialog: Don't tell me what I know, Travis.
+
+speaker_heading: YOUNG JUDY
+
+dialog: You don't scare me, Gideon.
+
+text: Gideon shoves Judy. Hard. She falls. The other prey animals
+flee to safety behind a nearby tree, leaving her to face the
+thugs alone.
+
+speaker_heading: GIDEON GREY
+
+dialog: You scared now?
+
+text: Judy starts to tear up. Her nose starts to twitch.
+
+speaker_heading: TRAVIS THE WOLF HENCHMAN KID
+
+dialog: Lookit her nose twitch. She is
+          scared!
+
+speaker_heading: GIDEON GREY
+
+dialog: Cry little baby bunny. Cry, cry --
+
+text: Suddenly-- BAM! Judy kicks Gideon in the face with her hind
+legs. He stumbles back, then checks his lip for blood.
+
+speaker_heading: GIDEON GREY (CONT'D)
+
+dialog:    Oh, you don't know when to quit, do
+          ya?
+
+text: He unsheathes his claws like a switchblade, then slaps her,
+drawing blood from her cheek. She cowers, as do her scared
+friends behind the tree.
+
+speaker_heading: GIDEON GREY (CONT'D)
+
+dialog:  I want you to remember this moment--
+          the next time you think you will
+          ever be anything more than just a
+          stupid, carrot farming dumb bunny.
+
+text: Gideon and his pal head off, laughing and high-fiving. The
+prey animals run back over to Judy, who wipes the blood from
+her cheek. She fights tears, defeated.
+
+speaker_heading: GARETH THE DOUBTING SHEEP BOY
+
+dialog: That looks bad.
+
+speaker_heading: SHARLA
+
+dialog: Are you okay, Judy?
+
+speaker_heading: YOUNG JUDY
+
+dialog: Yeah... Yeah, I'm okay.
+
+text: Judy smiles and then whips out the tickets as she gets up.
+
+speaker_heading:  YOUNG JUDY (CONT'D)
+
+dialog: Here you go.
+
+speaker_heading:  SHARLA
+
+dialog: Wow! You got our tickets!
+
+speaker_heading: GARETH THE DOUBTING SHEEP BOY
+
+dialog: You're awesome, Judy!
+
+speaker_heading:  SHARLA
+
+dialog: Yeah! That Gideon Grey doesn't know
+          what he's talkin' `bout.
+
+speaker_heading: YOUNG JUDY
+
+dialog: Well, he was right about one
+          thing...
+
+text: Judy picks up the cop hat, puts it on her head.
+
+speaker_heading: YOUNG JUDY (CONT'D)
+
+dialog: I don't know when to quit.
+
+scene_heading: EXT. POLICE ACADEMY TRAINING FACILITY - DAY
+
+text: Hopps and the comparatively huge CADETS sit in a circle as
+MAJOR FRIEDKIN, an intimidating drill instructor, lectures.
+
+speaker_heading: MAJOR FRIEDKIN
+
+dialog: Listen up Cadets! Zootopia has 12
+          unique ecosystems within its city
+          limits-- Tundra Town, Sahara
+          Square, Rainforest District, to
+          name a few. You're gonna have to
+          master all of them before you hit
+          the streets-- or guess what?
+              (to Hopps)
+          You'll be dead!
+
+scene_heading:  IN SAHARA SQUARE SIMULATOR:
+
+text: Hopps struggles through the sand.
+
+speaker_heading: MAJOR FRIEDKIN(CONT'D)
+
+dialog: Scorching sandstorm. You're dead,
+          bunny bumpkin!
+
+text: ON THE VINE-COVERED MONKEY BARS:
+Hopps swings across the bars, simulating the RAINFOREST
+DISTRICT. She falls off, landing face first in the mud.
+
+speaker_heading: MAJOR FRIEDKIN (O.S.) (CONT'D)
+
+dialog: 1000 foot fall. You're dead, carrot
+          face!
+
+text:TUNDRA TOWN ICE WALL:
+Judy and the cadets sprint toward the wall. The CLAWED
+ANIMALS dig into the ice wall. Hopps slides off.
+
+speaker_heading: MAJOR FRIEDKIN (CONT'D)
+
+dialog: Frigid ice wall. You're dead, farm
+          girl!
+
+text: IN THE BOXING RING:
+Hopps gets in the ring with a BIG BISON.
+
+speaker_heading: MAJOR FRIEDKIN (CONT'D)
+
+dialog: E-normous criminal.
+
+text: Hopps gets punched in the nose.
+
+speaker_heading: MAJOR FRIEDKIN (CONT'D)
+
+dialog: You're dead!
+
+text: THREE QUICK CUTS OF FAILURE:
+
+speaker_heading: MAJOR FRIEDKIN (O.S.) (CONT'D)
+
+dialog: Dead! / Dead! / Dead!
+
+text: IN THE TOILET:
+
+txet: Hopps ruses into a stall. The toilet is considerably larger
+than she is. She shuts the door. We see her climb up the
+toilet. In the next stall, we see the feet of a Hippo.
+Then, KERSPLASH! Hopps falls into the toilet.
+
+speaker_heading: MAJOR FRIEDKIN (CONT'D)
+
+dialog: Filthy toilet. You're dead, fluff
+          butt!
+
+text: HOPPS ON HER OWN--
+She runs at sunset-- after everyone else has called it a day.
+We HEAR the drill instructor's voice echoing in her mind.
+
+speaker_heading: MAJOR FRIEDKIN (V.O.) (CONT'D)
+
+dialog: Just quit and go home, fuzzy bunny!
+
+text: Then those of her parents...
+
+speaker_heading: STU HOPPS (V.O.)
+
+dialog: There's never been a bunny cop.
+
+speaker_heading: BONNIE HOPPS (V.O.)
+
+dialog: Never.
+
+speaker_heading: STU HOPPS (V.O.)
+
+dialog: Never.
+
+text: Then Gideon's...
+
+speaker_heading: GIDEON GREY (V.O.)
+
+dialog: Just a stupid, carrot farming dumb
+          bunny.
+
+text: OVERNIGHT, IN THE BARRACKS:
+Hopps stays up late studying, doing sit ups.
+ON THE ICE WALL:
+Hopps bounds up the wall, jumps off of the backs of the big
+animals and makes it over, impressing the Major Friedkin.
+IN THE RING:
+Hopps dodges a few swings. The Bison misses. Hopps bounds
+over him and uses his momentum-- kicking his other hand into
+his face, knocking him down.
+
+scene_heading: EXT. POLICE ACADEMY - DAY
+
+text: It's graduation day. MAYOR LIONHEART is at the podium.
+
+speaker_heading: LIONHEART
+
+dialog: As Mayor of Zootopia, I am proud to
+          announce that my Mammal Inclusion
+          Initiative has produced its first
+          police academy graduate.
+
+text: Judy stands proudly in her cop uniform.
+
+speaker_heading: LIONHEART (CONT'D)
+
+dialog: Valedictorian of her class, ZPD's
+          very first rabbit officer... Judy
+          Hopps.
+
+text: Judy walks to the stage as those in attendance cheer-- her
+FAMILY chief among them. ASSISTANT MAYOR BELLWETHER applauds.
+She smiles at Judy, lost in the moment.
+
+speaker_heading: LIONHEART (CONT'D)
+
+dialog: (clearing his throat)
+          Assistant Mayor Bellwether? Her
+          badge.
+
+speaker_heading: BELLWETHER
+
+dialog: Oh! Yes right.
+
+speaker_heading: LIONHEART
+
+dialog: Thank you.
+
+text: Bellwether steps forward to pin Hopps' ZPD badge on her.
+
+speaker_heading: LIONHEART (CONT'D)
+
+dialog: Judy, it is my great privilege to
+          officially assign you to the heart
+          of Zootopia: Precinct One, City
+          Center.
+
+text: Judy can barely contain her glee. Her parents are in shock.
+
+speaker_heading: BELLWETHER
+
+dialog: Congratulations, Officer Hopps.
+
+speaker_heading: JUDY
+
+dialog: I won't let you down. This has been
+          my dream since I was a kid.
+
+speaker_heading: BELLWETHER
+
+dialog: Ya know, it's a... It's a real
+          proud day for us little guys.
+
+speaker_heading: LIONHEART
+
+dialog: Bellwether, make room will ya? Come
+          on.
+
+text: Lionheart shoves Bellwether out of the way.
+
+speaker_heading: LIONHEART (CONT'D)
+
+dialog: Okay, Officer Hopps. Let's see
+          those teeth!
+
+text: A group of PHOTOGRAPHERS aim their cameras. Lionheart steps
+in front of Bellwether, edging her out of the photo. The
+flashbulbs pop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

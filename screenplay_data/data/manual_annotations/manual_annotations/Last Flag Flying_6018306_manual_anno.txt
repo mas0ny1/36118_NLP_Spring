@@ -1,0 +1,82 @@
+scene_heading: EXT. SAL'S BAR & GRILL - NIGHT 1
+
+text: A seedy neighborhood. LARRY "DOC" SHEPHERD, wearing a heavy
+windbreaker, stands idly on the street. An AWOL bag is on the
+sidewalk at his feet. A garment bag is slung over his
+shoulder. He studies the little working-man's bar across the
+street as the title "DECEMBER 13, 2003" comes up.
+
+scene_heading: INT. SAL'S BAR & GRILL - NIGHT 2
+
+text: Small and dark. A pool table, a few booths, not much decor.
+SAL NEALON leans on his elbows on his side of the bar, doing
+a crossword. He's in his late 50s and wears a cropped
+mustache, going gray, like the sides of his short-cropped
+hair. He wears a black T-shirt, revealing a USMC tattoo on
+his arm. He smokes a cigar, chewing its end more than it
+needs. An edgy dude - you wouldn't want to fuck with him. At
+the other end of the bar, COPS is on a TV that hangs
+suspended from the ceiling. On the show, a nervous couple try
+to explain to a sarcastic cop what they are doing in the
+projects if not buying drugs. Sal's only customer, O'TOOLE,
+an old functioning alcoholic, is watching. At some point Doc
+enters, pausing near the door. O'Toole gives him a cursory
+glance. Doc hangs his garment bag on a hook on the stanchion
+and takes a stool. He puts his AWOL bag on another stool and
+settles down with a little uncertainty.
+
+speaker_heading: SAL
+
+dialog: I ask you, you ever see these cops
+catch a killer or a rapist on this
+show? Ever see them put the cuffs
+on some crooked CEO fuck?
+
+text: Wanders over to Doc.
+
+speaker_heading: SAL (CONT'D)
+
+dialog: What can I get you?
+
+speaker_heading: DOC
+
+dialog: Beer.
+
+speaker_heading: SAL
+
+dialog: What kind?
+
+speaker_heading: DOC
+
+dialog: Doesn't matter.
+
+speaker_heading: SAL
+
+dialog: Bottle or draft?
+
+speaker_heading: DOC
+
+dialog: Draft.
+
+text: Sal walks back over and starts filling up a glass while he
+continues his conversation with O'Toole.
+
+speaker_heading: SAL
+
+dialog: Nah, they're always just drug users
+and johns... just people hurtin',
+trying to find a little pleasure in
+life.
+
+speaker_heading: O'TOOLE
+
+dialog: What have you got against cops?
+
+speaker_heading: SAL
+
+dialog: Nuttin'. What I got something
+against is good ol' stupidity.
+
+text: Sal wanders back to Doc and serves him the beer. Doc looks
+into a manila envelope and withdraws a five dollar bill and
+lays it on the bar.

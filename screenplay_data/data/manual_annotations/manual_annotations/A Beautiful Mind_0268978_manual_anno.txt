@@ -1,0 +1,548 @@
+scene_heading: EXT.-NORTH AMERICA-1947-DAY
+
+text: The way the world looks to God. The odd puzzle geometry of sea and
+land pieced together as if by unseen design. CLOSER. .
+
+speaker_heading: VAN NEUMANN (OVER)
+
+dialog: Mathematicians won the war...
+
+scene_heading: EXT.-NEW JERSEY-1947-DAY
+
+text: Alternating squares of lawn and lot, criss-crossing highways, a
+game board of cement and grass. CLOSER STILL...
+
+speaker_heading: VAN NEUMANN (OVER)
+
+dialog: Mathematicians broke the Japanese
+codes and built the A-bomb...
+
+scene_heading: EXT.-PRINCETON UNIVERSITY-DAY
+
+text: Rows of heads. PUSH IN on a single FACE looking skyward, as if he
+can see us. Uncommoenly handsome. Piercing blue eyes. JOHN NASH.
+
+speaker_heading: VAN NEUMANN (OVER)
+
+dialog: Mathematicians like you...
+
+text: TRACK over the all male students to the head of the common. JOHN
+VAN NEUMANN, is delivering the matriculation speech.
+
+speaker_heading: VAN NEUMANN
+
+dialog: But peace’s flame burns all too
+briefly. Atomic weapons are within
+Stalin’s reach. You are the vanguard
+of democracy and freedom. Today, we
+bequeath America’s future into your
+able hands. Welcome to Princeton.
+
+text: The crowd erupts in APPLAUSE.
+
+scene_heading: EXT. - PRINCETON- PRESIDENT’ S RECEPTION
+
+text: Sunlight dapples the flickering autumn leaves. Students in formal
+dress mill. FIND two STUDENTS standing at a bar, sipping martinis.
+ZWEIFEL is tall and wiry, like a scarecrow made of skin. SHAPELY is
+older, maybe 26, and handsome. Both watch someone in the crowd.
+
+speaker_heading: SHAPELY
+
+dialog: Milnor’s gonna get the brass ring if
+it kills him.
+
+speaker_heading: ZWEIFEL
+
+dialog: He’s used to pretty metal.
+(taps his teeth)
+Silver spoon.
+
+text: REVERSE on the subject of their musings. A student with shaggy hair
+and fiercely intelligent eyes is pumping hands. MARTIN MILNOR.
+
+speaker_heading: ZWEIFEL
+
+dialog: It’s not enough he won the Carnegie
+scholarship.
+
+speaker_heading: SHAPELY
+
+dialog: Has to have it all for himself.
+
+text: CAMERA DRIFTS to a third figure standing near them at the bar. John
+Nash can’t help but overhear their conversation. Zweifel notices.
+
+speaker_heading: ZWEIFEL
+
+dialog: First time the Carnegie prize has
+been split. Now Milnor’s all bent.
+
+text: Nash nods, looks again at the young man working the crowd.
+
+speaker_heading: SHAPELY
+
+dialog: He’s set his sights on the new
+military think tank at RAND.
+
+speaker_heading: ZWEIFEL
+
+dialog: They only recruit the best brain
+from each class.
+
+speaker_heading: SHAPELY
+
+dialog: Milnor’s used to being picked first. -
+(extends his hand)
+Shapely. Symbol Cryptography.
+
+speaker_heading: ZWEIFEL
+
+dialog: Shapes broke a Jap code. Helped rid
+the world of Fascism. Least that’s
+what he tells the girls.
+(extends his hand)
+Zweifel. Atomic physics. And you
+are...
+
+text: Just then a third FELLOW runs up. Breathless, clever face that
+resembles his name. FOX.
+
+speaker_heading: FOX
+
+dialog: Am I late?
+
+text: Zweifel and Shapely exchange a look. He’s always late.
+
+speaker_heading: at SHAPELY & ZWEIFEL
+
+dialog: Yes.
+
+speaker_heading: FOX
+
+dialog: (to Nash)
+Hi. I’m Fox.
+
+text: That's when Milnor emerges from the crowd to join his friends.
+
+speaker_heading: MILNOR
+
+dialog: Ah the burden of genius. So many
+supplicants, so little time.
+
+text: Milnor’s eyes light on Nash. The beat of recognition is so slight
+it’s almost imperceptible. Then he smiles.
+
+speaker_heading: MILNOR
+
+dialog: I‘1l take a white wine.
+
+speaker_heading: NASH
+
+dialog: Excuse me.
+
+speaker_heading: MILNOR
+
+dialog: A thousand pardons. I simply assumed
+you were the waiter.
+
+speaker_heading: FOX
+
+dialog: Play nice, Milnor.
+
+speaker_heading: SHAPELY
+
+dialog: Nice is not Milnor’s strong suit.
+
+speaker_heading: MILNOR
+
+dialog: An honest mistake. What with those
+war ration shoes...
+
+text: Nash's outfit does look off the rack compared to Milnor’s couture.
+
+speaker_heading: NASH
+
+dialog: It’s not your first mistake. I read
+your brief on Nazi ciphers.
+
+text: With that, Nash offers a slight nod, turns and walks off.
+
+speaker_heading: FOX
+
+dialog: Who was that masked man?
+
+speaker_heading: MILNOR
+
+dialog: Gentlemen meet John Nash. The
+mysterious West Virginia genius. The
+other winner of the distinguished Carnegie scholarship.
+
+text: Off Milnor. He’s still watching Nash go.
+
+scene_heading: EXT.-PRINCETON-FRESHMAN DORM-SUNSET
+
+text: The sun is low in the sky. Nash heads into the tall dormitory.
+
+scene_heading: INT.-FRESHMAN DORM ROOM-SUNSET
+
+text: Nash ENTERS. Small but well furnished. His clothes are still packed
+in trunks. Nash pulls off his tie, goes to the window.
+Couples and LAUGHING groups move across the sun-drenched field.
+Nash rests his forehead against the glass. Alone.
+The door swings open behind him. Unruly hair and a tuxedo that
+looks slept in whirl into the room. Meet CHARLES HERMAN.
+
+speaker_heading: CHARLES
+
+dialog: The prodigal roommate arrives.
+
+text: Charles begins stripping as he speaks. Nash stares in wonder as off
+come his jacket and bow-tie.
+
+speaker_heading: NASE
+
+dialog: Roommate?
+
+speaker_heading: CHARLES
+
+dialog: Did you know that a hangover is not
+having enough water in your body to
+run your krebs cycle?
+
+text: Charles pulls off his pants, and hopping, both shoes.
+
+speaker_heading: CHARLES
+
+dialog: Which is exactly what happens when
+you die of thirst.
+
+text: Now finally his shirt, which he throws on the couch.
+
+speaker_heading: CHARLES
+
+dialog: So dying of thirst would feel like
+the hangover that finally kills you.
+He grabs a towel and heads for the door.
+
+speaker_heading: CHARLES
+
+dialog: Nash, right? Happy to meet you.
+
+text: NASH-CLOSE. Speechless.
+A TOUCH FOOTBALL GAME-CLOSE. A HAND moves into FRAME, outlining the
+players with wax boxes and vectors. WIDER...
+
+scene_heading: INT.-NASH’S DORM ROOM-NIGHT
+
+text: Nash has moved his desk in front of the picture window, sits now
+marking the players positions on the pane.
+
+speaker_heading: CHARLES
+
+dialog:  Officially almost human again.
+
+text: Charles has ENTERED from the hall, hair wet, towel around his neck.
+
+speaker_heading: CHARLES
+
+dialog: Officer, I saw the driver who hit
+me. His name was Johnny Walker.
+
+text: Nash continues working as Charles opens the closet, pulls out bags
+which he apparently stowed before Nash's arrival. Begins unpacking.
+
+speaker_heading: CHARLES
+
+dialog: I got in last night. Right in time
+for English Department cocktails.
+The cock was mine. The tail belonged
+to a lovely young thing with a
+passion for D.H. Lawrence.
+
+text:  Nash nods, still doesn’t look up from his work.
+
+speaker_heading: CHARLES
+
+dialog: Not easily distracted, are you?
+
+speaker_heading: NASH
+
+dialog: I’m here to work.
+
+speaker_heading: CHARLES
+
+dialog: I see.
+
+text: Charlies spots a bowl of wrapped amaretto cookies on Nash's desk.
+Nash covers the bowl before Charles can grab one, never once
+looking up from his pad.
+That's when Charles actually climbs up on Nash’s desk, sitting
+right in front of him.
+
+speaker_heading: NASH
+
+dialog: Hey-.
+
+speaker_heading: CHARLES
+
+dialog: Is my roommate a dick?
+
+text: Charles reaches into his pocket and pulls out something. A silver
+flask. Waves it in Nash's face.
+
+speaker_heading: CHARLES
+
+dialog: If we can't break the ice, how about
+we drown it? .
+
+scene_heading: EXT.-DORM ROOFTOP-SUNSET
+
+text: Charles and Nash stand under the crimson sky on the roof of the
+dorm, passing the flask.
+
+speaker_heading: CHARLES
+
+dialog: So how’s it go? You the poor boy who
+didn't go to Harvard or Yale...
+
+speaker_heading: NASH
+
+dialog: (brushes his shoulder)
+That’s me. Big chip.
+
+speaker_heading: CHARLES
+
+dialog: Or the nerdy kid the other kids only
+liked for his brains?
+
+text: Nash just shrugs.
+
+speaker_heading: NASH
+
+dialog:  My first grade teacher wrote, John
+has a beautiful mind. I was five.
+
+speaker_heading: CHARLES
+
+dialog: Lots of smart people around here.
+
+speaker_heading: NASH
+
+dialog: But that’s all I am. Smart. I’m not
+warm. I don’t do people well.
+
+text: A couple of guys race, LAUGHING, past, tossing a moonrise football.
+
+speaker_heading: NASH
+
+dialog: Half these guys already published. I
+can’t waste time with books or
+classes. I have to come up with a
+truly original idea. It’s the only
+way I'll distinguish myself. It’s
+the only way I‘ll...
+
+speaker_heading: CHARLES
+
+dialog: Matter.
+
+text: Nash glances over to Charles, startled, then just nods.
+Nash reaches into his pocket, pulls out two wrapped amaretto
+cookies. Hands one to Charles.
+
+speaker_heading: CHARLES
+
+dialog: The cookies help.
+
+text: Finally, Nash smiles back.
+
+scene_heading: INT. -CLASSROOM-DAY
+
+text: A MAN towers before the class. Wire-rimmed glasses. The oldest eyes
+in the world. PROFESSOR LEW HORNER.
+
+speaker_heading: HORNER
+
+dialog: The Russians stated goal is
+worldwide communism...
+
+text: Horner moves to the blackboard. Covered with arcane symbols, the
+hieroglyphics of high level math.
+
+speaker_heading: HORNER
+
+dialog: It is on us to stop them. What we
+are looking for here is math with
+practical application. Morse’s dot
+and dash. Einstein’s torn atom.
+Numbers that can change the world.
+
+text: A group of students stare up at him. Zweifel, Milnor, Shapely, Fox
+and several others. Only one chair is empty.
+
+speaker_heading: HORNER
+
+dialog: Results, gentleman. Publishable.
+Applicable. Results...
+
+text: TAPS the board.
+
+speaker_heading: HORNER
+
+dailog: This is an actual Russian Air Force
+code. Can you break it? Mr. Shapely
+you're disqualified.
+
+text: Shapley nods slightly, leans back, lights a cigarette. Horner
+scrawls a final set of symbols on the board.
+
+speaker_heading: HORNER
+
+dialog: All right complete the sequence! Go!
+
+speaker_heading: MILNOR
+
+dialog: Seven.
+
+speaker_heading: EORNER
+
+dialog: {scrawls more symbols)
+Good. Again. Hurry, their MIG 15's
+are heading our way.
+
+speaker_heading: ZWEIFEL °
+
+dialog: Seventeen.
+
+speaker_heading: HORNER
+
+dialog: {scrawls more)
+Again. They're closing in on the
+Capitol.
+
+speaker_heading: MILNOR
+
+dialog: Six-
+
+speaker_heading: HORNER
+
+dialog: (scrawls more)
+Again. You can hear the roar of
+their Tupolevs-
+
+speaker_heading: MILNOR
+
+dialog: Seven-
+
+speaker_heading: HORNER
+
+dialog: (scrawls more)
+The warheads are armed-
+
+speaker_heading: MILNOR
+
+dialog: Seven, seven, one.
+
+text: Horner sets down the chalk. Wipes the chalk dust from his hands
+with a series of CLAPS.
+
+speaker_heading: HORNER
+
+dialog: Washington owes you a debt of
+gratitude Mr. Milnor. Good work.
+
+text: Horner looks around the room.
+
+speaker_heading: HORNER
+
+dialog: From now on, this is how you will
+think of numbers. Not as theory. Not
+as abstraction. As weapons.
+
+text: Horner sits back on the desk.
+
+speaker_heading: HORNER
+
+dialog: My name is Lew Horner and I will be
+your teacher. Welcome to Mathematics
+in Thought and Action.
+
+text: He glances at the empty chair. Then at his roster.
+
+speaker_heading: HORNER
+
+dialog: Where the hell is...Nash?
+
+text: Milnor looks out the window. FOLLOW Milnor’s gaze into...
+
+scene_heading: EXT.-PRINCETON COURTYARD-DAY
+
+speaker_heading: MILNOR (OVER)
+
+dialog: He’s looking for his original idea.
+
+text: Nash is on his bicycle riding around the courtyard in figure
+eights, eyes half-closed, students scattering as he goes.
+
+scene_heading: EXT.-PRINCETON GAMES QUAD-DAY
+
+text: Stone gaming tables built into the wide cement courtyard. The last
+brown leaves whip like dervishes across the expanse.
+Van Neumann stands with Milnor, Zweifel, Shapely and a few others
+over a GO board set with marbles.
+
+speaker_heading: VAN NEUMANN
+
+dialog: We study games to study strategic
+behavior in conflict...
+
+text: Fox pushes into the group.
+
+speaker_heading: VAN NEUMANN
+
+dialog: Thank you for stopping by Mr. Fox.
+Put simply, the study of games is
+the study of war...
+
+text: (OVER) a WHISTLING rises, crystal clear. BEETHOVEN’S MOONLIGHT
+SONATA. All turn to reveal Nash, walking backwards past them.
+
+speaker_heading: VAN NEUMANN
+
+dialog: speaker_heading: VAN NEUMANN
+
+text: Nash looks ‘up, apparently startled by their presence.
+
+speaker_heading: NASH
+
+dialog: Classes dull the mind and destroy
+authentic creativity. No offense.
+
+speaker_heading: VAN NEUMANN
+
+dialog: None taken.
+
+speaker_heading: MILNOR
+
+dialog: John’s going to stun us all with his
+original idea.
+
+speaker_heading: ZWEIFEL
+
+dialog: (mouthing)
+Psy-cho.
+
+speaker_heading: MILNOR
+
+dialog:  Which is another way of saying he
+doesn’t have the nerve to compete.
+Milnor RAPS the game table with his knuckles.
+
+speaker_heading: MILNOR
+
+dialog: Scared?
+
+text: A beat. Then Nash smiles.
+
+

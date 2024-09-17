@@ -1,0 +1,495 @@
+scene_heading: INT. INTERROGATION ROOM - PRESENT
+
+text: This whole scene is shot using only extreme close-ups of eyes, cards, 
+tapping fingers and mouths. We open on a bright  pair of eyes. One is 
+bruised and slightly swollen, but this does not detract from their 
+clarity.
+
+speaker_heading: EDDY
+
+dialog: Three card brag is a simple form of poker; you are dealt only three 
+cards and these you can't change. If you don't look at your cards 
+you're a `blind man' and you only put in half the stake. Three of any 
+kind is the highest you can get: the odds are four hundred and twenty-
+five to one. Then it's a running flush - you know, all the same suit 
+running in order; then a straight, then a flush, then a pair, and 
+finally whatever the highest card you are holding. There are some tell-
+tale signs that are valuable; I am not going to tell you them because 
+it took me long enough to learn them, but these can only help a player, 
+not make one. So you want to play?
+
+text: DISSOLVE TO BLACK. THE FIRST OF THE CREDITS APPEAR ON THE SCREEN.
+
+dialog: What have you got?
+We cut to a beady pair of eyes and then to his cards as they are turned 
+over: three hearts of no consecutive numbers are exposed. That's a good 
+hand. A flush beats my pair. What about you?
+Another pair of excited eyes widen to the question. We see more cards: 
+a run is revealed.
+And here's me trying to explain the game to you. Hustlers, you're all 
+hustlers!
+We cut to a shot of a small amount of money being scooped up. OK! You 
+got some real money?
+
+text: DISSOLVE TO BLACK: MORE CREDITS APPEAR ON THE SCREEN.
+
+dialog: Ed scoops up a large pile of money.
+Odds chaps, you gotta remember the odds.
+There ? a loud slam of a door. We cut to a wide shot of a policeman 
+who has just entered. It is then revealed that two of the three players 
+are also policemen. They stand to attention, red faced with 
+embarrassment.
+
+speaker_heading: SERG
+
+dialog: I hope I am not interrupting. Comfortable, Edward?
+
+speaker_heading: EDDY
+
+dialog: I haven't slept for forty-eight hours, got a dozen broken ribs, can 
+feel a case of the flu coming on and . . .
+
+speaker_heading: SERG
+
+dialog: (interrupts)
+All right, all right, don't think I wouldn't like to get rid of you; 
+but before I do, I need to know what's going on, son.
+
+speaker_heading: EDDY
+
+dialog: If you think you're in the dark, I am in a black hole, blindfolded.
+
+text: DISSOLVE TO BLACK. THE MUSIC STARTS.
+
+dialog: We pull back out of the black to reveal that we have been sitting in 
+the inside of a shotgun. The barrels recede further, then `boom.' LOCK 
+STOCK are shot out of the top of the screen in peppered letters. We 
+wait for a while, as the barrels reappear through. the smoke. We then 
+see one smoking barrel; 'boom!' the other is let off: AND TWO SMOKING 
+BARRELS joins the sentence.
+
+scene_heading: EXT. STREET (FLASHBACK] - DAY
+
+text: We open on a smart, casually dressed man selling perfume and jewellery 
+on a street corner. A crowd has gathered, attracted by the alarming 
+volume at which he is advertising his wares.
+
+speaker_heading: BACON
+
+dialog: See these goods, they never seen daylight, moonlight, Israelite, Fanny-
+by-the-gas-light. If you can't see value here today you're not up here 
+shopping, you're up here shoplifting. Take a bag, take a bag. I took a 
+bag, I took a bag home last night and she cost a lot more than ten 
+pounds I can tell ya. Tell me if I am going too cheap. Not ninety, not 
+eighty, not forty, half that and half that again, that's right, ten 
+pounds. Don't think 'cos it's sealed up it's an empty box. The only man 
+who sells empty boxes is the undertaker, and by the look of some of you 
+here today I would make more money with me measuring tape.
+
+text: A well-dressed, zealous character (Eddy) appears from behind the crowd 
+waving money. It seems he can't wait to get rid of it.
+
+speaker_heading: EDDY
+
+dialog: Bargain, that's a bloody bargain if I ever heard one. Ten pounds you 
+say? I'll have five.
+Certainly sir. I'll just wrap.
+
+text: Changing his attention.
+
+speaker_heading: BACON
+
+dialog: Excuse me misses, sorry sir, ladies first and all that.
+
+text: A tourist spectator, rather than a buyer, has been. put on the spot. 
+She fumbles through her bag hastily all too aware of the attention of 
+the crowd, of which she is now the focus. She passes her money like 
+it's contaminated. Others follow suit.
+
+dialog: Buy 'em, you better buy 'em; they're not stolen, they just never been 
+paid for.
+
+text: This really stokes the fire. The money can't come fast enough. Just as 
+business reaches its peak there is a call of alarm from the first 
+enthusiastic punter, who seems to be rather more familiar than he first 
+pretended.
+
+speaker_heading: EDDY
+
+dialog: Bacon!
+
+text: Bacon's expression changes dramatically. A series of crash zooms 
+between Ed's, Bacon's and a third party's eyes (the police) reveal 
+there is a problem. They're off: EDDY and BACON run like they have done 
+this before. They go down an ally; Ed jumps some stairs, we freeze.
+
+speaker_heading: BACON
+
+dialog: (voice-over)
+Ed can run fast, talk fast, eat fast, and play cards fast, but he's 
+fucking slow when it comes to spotting the roz.
+
+speaker_heading: EDDY
+
+dialog: (voice-over)
+The reason he is called BACON is he spent so much of his youth in the 
+police station that people thought he was one of them. But he is a big 
+boy now and it is time to move on.
+We cut to a shot of Ed as he lands. He has made good distance.
+
+scene_heading: INT. GROCER'S SHOP - MORNING
+
+text: EDDY arrives at a grocer's shop. We meet Tom. Tom is talking to Nick 
+the Greek.
+
+
+speaker_heading: TOM
+
+dialog: What are you talking about? I am bloody skinny, pal.
+
+speaker_heading: 
+
+dialog: Of course you are. All right, Ed.
+
+speaker_heading: EDDY
+
+dialog: Nick the Greek, always a pleasure. All right Tom, what you been eating?
+
+text: Tom examines his midriff and adopts a confused expression.
+
+speaker_heading: TOM
+
+dialog: Please, both join me in my office.
+
+scene_heading: INT. GROCER'S SHOP STORE ROOM - DAY
+
+text: They work their way past a maze of boxes.
+
+speaker_heading: NICK
+
+dialog: (fingering and admiring one of the boxes)
+How much did you say it was, Tom?
+
+speaker_heading: TOM
+
+dialog: You know how much it is, Nick.
+
+speaker_heading: NICK
+
+dialog: And that does include the amp?
+
+speaker_heading: TOM
+
+dialog: You know it doesn't include the amp.
+
+scene_heading: INT. RESTAURANT KITCHEN -AFTERNOON
+
+text: Tom and Ed make their way through a busy, well-equipped kitchen. This 
+is obviously a smart and serious establishment. They stop in front of 
+the man whose uniform is covered in blood; he appears to be the head 
+chef. Meet Soap.
+
+speaker_heading: TOM
+
+dialog: What have you come as?
+
+speaker_heading: SOAP
+
+dialog: Cupid stupid! That's the last time I am getting any more fruit off you 
+Tom. Call that fresh? There was more small hairy armoured things in 
+your fruit than there was fruit. You should open a butcher's, not a 
+grocer's.
+
+speaker_heading: TOM
+
+dialog: If you will order stuff that comes from Kat-Man-Fucking-Du don't be 
+surprised if your fruit picks up a few tourists en route. ~ Never mind 
+that, what about the money?
+
+speaker_heading: SOAP
+
+dialog: Get your fingers out of my soup!
+
+text: SLOW MOTION
+Soap pulls out a bag from under where he is sitting.
+
+speaker_heading: TOM
+
+dialog:  (voice-over)
+Soap is called Soap because he likes to keep his hands clean of any 
+unlawful behaviour. He is proud of his job, and even more proud that 
+it's legal.
+
+speaker_heading: BACON
+
+dialog: (voice-over)
+ He's a stroppy sod but he's got more balls than a golfer, only he 
+doesn't know it. ' * Cut from completed film.
+
+text: RELEASE SLOW MOTION
+Ed looks in bag.
+
+speaker_heading: EDDY
+
+dialog: Are you sure you can afford twenty-five?
+
+speaker_heading: SOAP 
+
+dialog: Well that depends on how you look at it. I can afford it as long as I 
+see it again, if that's what you mean. You got the rest from the fat 
+man and Bacon?
+
+text:  Tom looks on with suspicion.
+
+speaker_heading: TOM
+
+dialog: Who's this fat man, then?
+
+speaker_heading: EDDY
+
+dialog: Bacon, the fat man and myself, and it's time to make a call to Harry.
+
+scene_heading: INT. HATCHET HARRY'S OFFICE - DAY
+
+text: A hard-looking man of about fifty is sat behind a large antique desk. 
+On this desk is a hatchet resting in a block of wood, poised like a 
+judge's hammer. Harry is obviously in the sex game. Cluttered up in a 
+hazardous way are a selection of dildos, spanking paddles, etc. A 
+cabinet of fine-looking shotguns is placed behind. We have a split 
+screen involving EDDY and his friends (listening in) and Hatchet with 
+one hand on the phone and the other on a shotgun.
+
+speaker_heading: HATCHET
+
+dialog: You got it all?
+
+scene_heading: INT. KITCHEN - DAY.
+
+speaker_heading: EDDY
+
+dialog: A hundred grand.
+
+text: FREEZE SHOT OF HATCHET
+
+speaker_heading: TOM
+
+dialog: (voice-over)
+You see it's not easy to take a seat at this table; the money involved 
+has to be a hundred grand upwards and there is no shortage of punters.
+
+speaker_heading: EDDY
+
+dialog: (voice-over)
+The man who decides if you can play is this man Harry, or Hatchet Harry 
+as some including himself like to call him.
+
+text: RELEASE FREEZE SHOT OF HATCHET
+
+speaker_heading: HATCHET
+
+dialog: Well if you got it, you got it. Now, if you don't mind . . .
+
+text: The phone is slammed down.
+SHOT OF HATCHET
+
+speaker_heading: SOAP
+
+dialog: (voice-over)
+When the old bastard is not playing cards he's chasing a thousand debts 
+that ill-fated individuals owe for an array of reasons.
+
+speaker_heading: BACON
+
+dialog: (voice-over)
+Sex and sleaze and antique shotguns are all deep and dear in Harry's 
+stone cold heart.
+
+text: RELEASE FREEZE SHOT OF HATCHET
+
+speaker_heading: HATCHET
+
+dialog: What's this EDDY like, then?
+
+text: The camera spins round to reveal a massive monster of a man sitting 
+opposite Hatchet. Meet Barry the Baptist.
+FREEZE SHOT OF BARRY
+
+speaker_heading: EDDY
+
+dialog: (voice-over)
+Hatchet has a colleague, a monster of a man: Barry the Baptist.
+
+speaker_heading: BACON
+
+dialog: (voice-over)
+The Baptist got his name from drowning people for Hatchet.
+
+speaker_heading: TOM
+
+dialog: (voice-over)
+But he needs him, because he is good at making sure debts get settled 
+and jobs get done.
+
+text: RELEASE FREEZE SHOT OF BARRY
+
+speaker_heading:  BARRY
+
+dialog: EDDY been shaking the knees of a lot of good players. The boy has a 
+rare ability, he seems to make cards transparent, got bluffing dow .
+
+speaker_heading:  HATCHET
+
+dialog: (interrupts)
+All right, all right, so we can say he is good.
+
+speaker_heading: BARRY
+
+dialog: Better than good, he is a fucking liability.
+
+speaker_heading:  HATCHET
+
+dialog: Where did he get a hundred grand?
+
+speaker_heading: BARRY
+
+dialog: He has got some adhesive mates, they have tossed up between them.
+
+speaker_heading:  HATCHET
+
+dialog: And JD is his dad, and owns the whole property?
+
+speaker_heading: BARRY
+
+dialog: No mortgage, no debts; lock, stock, the sodding lot . . . don't worry, 
+I got it under control.
+
+speaker_heading:  HATCHET
+
+dialog: Good, you can get this under control now.
+A glossy Christie's brochure displaying a pair of impressive antique 
+hammer-lock shotguns is shoved in Barry's face.
+It seems Lord Appleton Smythe has run out of money, and these little 
+beauties are up for auction, but I am not paying quarter of a million 
+quid for 'em, if you know what I mean Barry. One of my associates has 
+given me an address and the location of these lovelies. Make sure we 
+get everything from inside the gun cabinet. I don't want to know who 
+you use, as long as they are not complete muppets; and don't tell them 
+what they're worth.
+
+text: Changing the subject.
+
+dialog: 'Ere! Hold on, what do you think of these? We are selling hundreds.
+
+text: Holds up one of the spanking paddles.
+
+speaker_heading: BARRY
+
+dialog: Er, very nice Harry. What's it for?
+
+speaker_heading:  HATCHET
+
+dialog: Don't play innocent with me Bazza; spanking!
+
+text: The paddle is brought down hard on the desk: slap.
+
+scene_heading: INT. TORTURE ROOM - DAY
+
+text: Meet the Dog. Dog is horrible. He is large and intimidating. 
+Administering pain is Dog's forte. He is also the Guy we cut from the 
+last scene `slap' to the teeing of a golf ball. Wallop. Dog pulls a 
+sadistic and alarmingly pleasurable face.
+
+speaker_heading:  DOG
+
+dialog: It's a dog eat dog world, lads, and I got bigger teeth than you.
+
+text: We see an individual hanging upside down tied up with gaffer tape but 
+otherwise naked. An orange is stuck in the man's mouth. Dog is standing 
+on another man's chest who has a tee stuck between his teeth from where 
+Dog fires golf balls at the other unfortunate figure. The tied-up man 
+is Gordon. The other is Slick. Gordon nods his head erratically 
+implying that he has reached a decision.
+
+dialog: (to Plank)
+I think your man is trying to say something.
+
+text: Pause.
+
+dialog: Perhaps not; maybe I should have another swing just to make sure.
+
+text: Agonised muffled screaming from Gordon. Slick (who has a tee in his 
+mouth) shuts his eyes in horror as the golf ball thumps into Gordon.
+
+dialog: Yes, Gordon, is there something you would like to tell us?
+
+text: The orange is removed from Gordon's mouth.
+
+speaker_heading:  GORDON
+
+dialog: (rushing to get the words out)
+In the kitchen, under the floor . . .
+
+speaker_heading:  (interrupts)
+Shut it, you idiot . . .
+
+text: Dog swings the golf club round Slick's jaw, knocking him unconscious.
+
+speaker_heading:  DOG
+
+dialog: You were saying?
+
+speaker_heading:  GORDON
+
+dialog: It's in the karzi, pull the fishing wire under the seat. Jesus, for 
+god's sake let me down.
+
+speaker_heading: PLANK
+
+dialog: Oh, Dog! . . . I think you want to have a look at this!
+
+text: Plank returns holding an assortment of drugs and cash. Gordon starts to 
+scream. Dog picks up a steel for sharpening knives and throws it across 
+the room. Thunk. Silence follows. Plank grimaces.
+
+dialog: Oh, Dog!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

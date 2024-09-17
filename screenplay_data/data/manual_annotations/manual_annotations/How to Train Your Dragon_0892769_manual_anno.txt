@@ -1,0 +1,182 @@
+scene_heading:           EXT. NORTH SEA/VILLAGE - NIGHT
+
+tex:   We skim above a dark, wild ocean. The camera turns toward a
+          lone island, Berk. It is a gigantic shard of rock jutting
+          straight out of the water.
+
+speaker_heading:           HICCUP (V.O.)
+
+dialog: This, is Berk. It's twelve days
+          North of hopeless, and a few
+          degrees South of freezing to death.
+          It's located solidly on the
+          meridian of misery.
+
+text: The camera drifts over rolling hills to reveal a small
+          village nestled on an outcropping of sea mounts.
+
+speaker_heading:           HICCUP (V.O.)
+
+dialog:  My village. In a word, sturdy.
+          And it's been here for seven
+          generations, but every single
+          building is new.
+
+text:   The camera drifts closer, circling.
+
+speaker_heading:           HICCUP (V.O.) (CONT'D)
+
+dialog: We have fishing, hunting, and a
+          charming view of the sunsets. The
+          only problems are the pests. You
+          see, most places have mice or
+          mosquitos. We have...
+
+text: Sheep graze peacefully on a hillside. Suddenly one is
+          snatched.
+
+scene_heading: INT. STOICK'S HOUSE - CONTINUOUS
+
+text: A door is pulled open... as a DRAGON swoops directly toward
+
+          it, BLASTING FIRE. The door is SLAMMED. The fire shoots
+
+          through the slats of wood, illuminating HICCUP, a gangly
+
+          teenage Viking.
+
+speaker_heading: HICCUP
+
+dialog:           ...dragons.
+
+scene_heading: EXT. STOICK'S HOUSE
+
+text:  He reopens the sizzling door, as leaps off of the front
+          porch. He weaves through the erupting mayhem as Vikings pour
+          out of the buildings, ready for a fight.
+   More dragons swarm in, setting rooftops alight and hauling
+          off sheep.
+
+speaker_heading: HICCUP (V.O.)
+
+dialog:   Most people would leave. Not us.
+          We're Vikings. We have stubbornness
+          issues.
+
+text: Vikings sound the alarm. Viking men and women pour out into
+          the streets, axes in hand.
+          ON HICCUP darting through alleys, staying under eaves, making
+          his way through the battle.
+
+speaker_heading: HICCUP (V.O.) (CONT'D)
+
+text:  My name's Hiccup. Great name, I
+          know. But it's not the worst.
+          Parents believe a hideous name will
+          frighten off gnomes and trolls.
+          Like our charming Viking demeanor
+          wouldn't do that.
+
+text:  Dragons sweep back and forth, dodging axes and blasting the
+          Vikings who throw them. A burly warrior gets tossed in an
+          explosion, knocking Hiccup to the ground.
+
+speaker_heading: VIKING
+
+dialog: (FIERCE)
+          Arggghhhhh!
+          (cheery, insane)
+          Mornin'!
+
+text: Hiccup gets to his feet and continues to rush past gigantic
+          men and women.
+
+speaker_heading: HICCUP (V.O.)
+
+dialog: Meet the neighbors. Hoark the
+          Haggard...
+
+speaker_heading: HOARK
+
+dialog:           What are you doing out!?
+
+speaker_heading: HICCUP
+
+dialog:           ... Burnthair the Broad...
+
+speaker_heading: BURNTHAIR
+
+dialog:  Get inside!
+
+speaker_heading: HICCUP
+
+dialog:           ... Phlegma the Fierce...
+
+speaker_heading:  PHLEGMA THE FIERCE
+
+dialog:           Get back inside!
+
+speaker_heading: HICCUP
+
+dialog: . Ack.
+
+text:          He passes a silent ox of a viking, picking his ear.
+
+speaker_heading: HICCUP (CONT'D)
+
+dialog: Yep, just Ack.
+
+text:           Enter STOICK, the biggest Viking of all. He yanks Hiccup from
+
+          the path of a strafing dragon and holds aloft to the crowd.
+
+speaker_heading: STOICK
+
+dialog:  Hiccup!?
+          (accusingly; to the crowd)
+          What is he doing out again?!
+
+speaker_heading:    (TO HICCUP)
+
+dialog:   What are you doing out?! Get
+          inside!
+
+text:   The flames light up his scowling face and matted red beard.
+          He sets Hiccup down and turns to the sky, searching.
+
+speaker_heading:  (IN AWE)
+
+dialog: That's Stoick the Vast. Chief of
+          the tribe. They say that when he
+          was a baby he popped a dragon's
+          head clean off of its shoulders.
+          Do I believe it?
+
+text:  Stoick grabs a wooden cart and hurls it, knocking the
+          strafing dragon out of the sky.
+
+speaker_heading:  HICCUP (V.O.) (CONT'D)
+
+dialog:   Yes I do.
+
+text:  An EXPLOSION forces Vikings to DUCK. Stoick stands firm,
+          brushing flaming debris off of his shoulder.
+
+speaker_heading: STOICK
+
+dialog:  (barking; to his men)
+          What have we got?
+
+speaker_heading: VIKING #1
+
+dialog:  Gronkles. Nadders. Zipplebacks. Oh,
+          and Hoark saw a Monstrous
+          Nightmare.
+
+speaker_heading: STOICK
+
+dialog: Any Night Furies?
+
+speaker_heading: VIKING #1
+
+dialog:   None so far.

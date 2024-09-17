@@ -1,0 +1,170 @@
+text: In the darkness, we hear a voice, a woman's voice.  Her name
+	is Evey.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: "Remember, remember, the fifth of
+		November, the gunpowder treason and
+		plot.  I know of now reason why the
+		gunpowder treason should ever be
+		forgot."
+
+text: Her voice has a strength that is metered by a calmness, a
+	deep centered peace that we can feel.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: Those were almost the very first
+		words he spoke to me and, in a way,
+		that is where this story began,
+		four hundred years ago, in a cellar
+		beneath the Houses of Parliament.
+
+text: In the darkness, we find a lantern.  Guy Fawkes, a dangerous
+	man who wears a goatee, is struggling with a wheelbarrow
+	stacked with barrels of gunpowder.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: In 1605, Guy Fawkes attempted to
+		blow up the Houses of Parliament.
+
+text: The wheelbarrow bumps over the heavy stone mortar of the
+	cellar floor.  From the dark depths, we hear the sound of
+	dogs.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: He was caught in the cellars with
+		enough gunpowder to level most of
+		London.
+
+text: 	Guy sees lanterns coming from both sides.  He tries to run as
+	the dogs reach him first.  He grabs for his sword as dozens
+	of pole axes pin him against the tunnel's stone wall.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: Sometimes I wonder where we would
+		be if he hadn't failed.  I wonder
+		if it would have mattered.
+
+text: In the dim pre-dawn light, Guy is led to the gallows.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: I suppose the answer is in the
+		rhyme.  More than the man, what we
+		must remember is the plot itself.
+
+text: The coarse noose of rope is snugged up to Guy's throat.  He
+	looks into the crowd until he finds a face, a woman's face,
+	staring up at him.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: For in the plot we find more than
+		just a man, we find the idea of
+		that man, the spirit of that man,
+		and that is what we must never
+		forget.
+
+text: The lever is thrown and the woman looks down, a tear falling
+	down her face.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: This, then, is the story of that
+		idea, of that spirit that began
+		with an anarchist's plot four
+		hundred years ago.
+
+text: Guy's body hangs in silhouette, lifeless against a red
+	morning sun.
+
+scene_heading: EXT.  CITY STREET
+
+text: 	In the midst of a political rally for the emerging new party
+	calling itself Norsefire, we find little Evey now on her
+	father's shoulders.
+	Dascombe, a young man, paces the podium, inciting the crowd.	
+
+speaker_heading: DASCOMBE
+
+dialog: The time has come, London, to
+		return to a bygone age, an age of
+		tradition, an age of values that
+		have been disparaged and all but
+		forgotten.  What this country needs
+		is a leader!  A true leader to
+		remind us of that age.  A righteous
+		leader with the strength of his
+		moral convictions to do what must
+		be done.  I give you that man!  I
+		give you our leader!  Adam Susan!
+
+text: Adam Susan rises and the crowd cheers.  Evey's father looks
+	at her mother and again they clasp hands.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: It must have seemed so easy to
+		them.  They offered such a simple
+		deal; give up control and we will
+		restore order.
+
+scene_heading: INT.  SUBURBAN HOUSE
+
+text: Little Evey is asleep in her bedroom.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: At first, the arrests were
+		political.  Dissidents.  Radicals. 
+		Liberals.
+
+text: A loud crash of splintering wood wakes her up.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: When my parents were younger, they
+		had been activists.  They had
+		marched with Labor in the great
+		train strike.
+
+text: The sound of heavy boots swarms through the house.
+
+speaker_heading: LITTLE EVEY
+
+dialog: Mommy?
+
+text: Her bedroom door bursts open and a heavily armed soldier
+	scoops her up.
+	She is carried through the dark house which is filled with
+	soldiers.  On the floor of the living room, she sees her
+	parents being bound with plastic zip-ties.
+
+speaker_heading: MOTHER
+
+dialog: My daughter!  Don't take my
+		daughter!
+
+speaker_heading: FATHER
+
+dialog: Evey!  Evey!
+
+speaker_heading: LITTLE EVEY
+
+dialog: Mommy!  Daddy!
+
+text: A heavy black hood is pulled over each of her parent's heads
+	as Evey is carried out of the house.
+
+speaker_heading: EVEY (V.O.)
+
+dialog: I never saw them again.  Overnight,
+		my life, my entire world was
+		erased.
+
+
+

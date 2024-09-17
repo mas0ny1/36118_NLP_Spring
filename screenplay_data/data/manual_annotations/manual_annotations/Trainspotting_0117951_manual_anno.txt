@@ -1,0 +1,517 @@
+scene_heading: EXT. STREET. DAY
+
+text: Legs run along the pavement. They are Mark Renton's.
+Just ahead of him is Spud. They are both belting along.
+As they travel, various objects (pens, tapes, CDs, toiletries, ties,
+sunglasses, etc.) either fall or are discarded from inside their jackets.
+They are pursued by two hard-looking Store Detectives in identical uniforms.
+The men are fast, but Renton and Spud maintain their lead.
+
+speaker_heading: RENTON
+
+dialog: (voice-over)
+     Choose life. Choose a job. Choose a career. Choose a family,
+     Choose a fucking big television, Choose washing machines, cars,
+     compact disc players, and electrical tin openers.
+
+text: Suddenly, as Renton crosses a road, a car skids to a halt, inches from him.
+In a moment of detachment he stops and looks at the shocked driver, then at
+Spud, who has continued running, then at the Two Men, who are now closing in
+on him.
+He smiles.
+
+scene_heading: INT. SWANNEY'S FLAT ROOM. DAY
+
+text: In a bare, dingy room, Renton lies on the floor, alone, motionless and
+drugged.
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+     Choose good health, low cholesterol and dental insurance. Choose
+     fixed-interest mortgage repayments. Choose a starter home. Choose
+     your friends.
+
+scene_heading: EXT. FOOTBALL PITCH. NIGHT
+
+text: On a flood lit five-a-side pitch, Renton and his friends are taking on
+another team at football.
+The opposition all wear an identical strip (Arsenal), whereas Renton and his
+friends wear an odd assortment of gear.
+Three girls -- Lizzy, Gail, and Allison and Baby -- stand by the side,
+watching.
+The boys are outclassed by the team with the strip but play much dirtier.
+As each performs a characteristic bit of play, the play freezes and their
+name is visible, printed or written on some item of clothing. (T-Shirt,
+baseball cap, shorts, trainers). In Begbie's case, his name appears as a
+tatoo on his arm.
+Sick Boy commits a sneaky foul and indignantly denies it.
+Begbie commits an obvious foul and make no effort to deny it.
+Spud, in goal, lets the ball in between his legs.
+Tommy kicks the ball as hard as he can.
+Renton's litany continues over the action:
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+     Choose leisure wear and matching luggage. Choose a three piece
+     suite on hire purchase in a range of fucking fabrics. Choose DIY
+     and wondering who you are on a Sunday morning. Choose sitting on
+     that couch watching mind-numbing sprit-crushing game shows,
+     stuffing fucking junk food into your mouth. Choose rotting away at
+     the end of it all, pishing you last in a miserable home, nothing
+     more than an embarrassment to the selfish, fucked-up brats you
+     have spawned to replace yourself. Choose your future. Choose life.
+
+text: Renton is hit straight in the face by the ball. He lies back on the
+astroturf. Voice-over continues.
+     But who would I want to do a thing like that?
+
+scene_heading: INT. SWANNEY'S FLAT. DAY
+
+text: Renton lies on the floor.
+Swanney, Allison and Baby, Sick Boy and Spud are shooting up or preparing to
+shoot up. Sick Boy is talking to Allison as he taps up a vein on her arm.
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+I chose not to choose life: I chose something else. And the
+     reasons? There are no reasons. Who need reasons when you've got
+     heroin?
+
+speaker_heading: SICK BOY
+
+dialog: Goldfinger's better than Dr. No. Both of them are a lot better
+     than Diamonds are Forever a judgement reflected in its relative
+     poor showing at the box office, in which field, of course,
+     Thunderball was a notable success.
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+     People think it's all about misery and desperation and death and
+     all that shite, which is not to be ignored, but what they forget
+
+text: Spud is shooting up
+
+dialog: is the pleasure of it. Otherwise we wouldn't do it. After all,
+     we're not fucking stupid. At least, we're not that fucking stupid.
+     Take the best orgasm you ever had, multiply it by a thousand and
+     you're still nowhere near it. When you're on junk you have only
+     one worry: scoring. When you're off it you are suddenly obliged to
+     worry about all sorts of other shite. Got no money: can't get
+     pished. Got money: drinking too much. Can't get a bird: no chance
+     of a ride. Got a bird: too much hassle. You have to worry about
+     bills, about food, about some football team that never fucking
+     winds, about human relationships and all the things that really
+     don't matter when you've got a sincere and truthful junk habit.
+
+speaker_heading: SICK BOY
+
+dialog: I would say, in those days, he was a muscular actor, in every
+     sense, with all the presence of someone like Cooper or Lancaster,
+     but combined with a sly wit to make him a formidable romantic
+     lead, closer in that respect to Cary Grant.
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+     The only drawback, or at least the principal drawback, is that you
+     have to endure all manner of cunts telling you that -
+
+scene_heading: INT. PUB I. NIGHT
+
+text: Begbie, smoking and drinking, speaks to camera.
+
+speaker_heading: BEGBIE
+
+dialog: No way would I poison my body with that shite, all they fucking
+     chemicals, no fucking way.
+
+scene_heading:  INT. PUB I. NIGHT
+
+text: Tommy sits beside Lizzy. He speaks to camera.
+
+speaker_heading: TOMMY
+
+dialog: It's a waste of your life, Rents, poisoning your body with that
+     shite.
+
+scene_heading:  INT. RENTON FAMILY HOME, LIVING ROOM. NIGHT
+
+text: Renton's father and mother sit at the table eating.
+Renton is seated but not eating.
+
+speaker_heading: speaker_heading: 
+
+dialog: Every chance you've ever had, you've blown it, stuffing your veins
+     with that filth.
+
+scene_heading:  INT. ELECTRICAL RETAILERS. DAY
+
+text: Gav wears the corporate jacket.
+
+speaker_heading: speaker_heading: 
+
+dialog: Get off that stuff, Rents and get a job. It's not as bad as it
+     looks. While you're here, you don't fancy buying a cooker, do you?
+
+scene_heading:  INT. SWANNEY'S FLAT. DAY
+
+text: Sick Boy and Spud lie drugged up. Allison and Baby wait while Swanney cooks
+up.
+Renton is standing up.
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+     From time to time, even I have uttered the magic words.
+
+speaker_heading: SWANNEY
+
+dialog: Are you serious?
+
+speaker_heading: RENTON
+
+dialog: Yeah. No more. I'm finished with that shite.
+
+speaker_heading: SWANNEY
+
+dialog: Well, it's up to you.
+
+speaker_heading: RENTON
+
+dialog: I'm going to get it right this time. Going to get it set up and
+     get off it for good.
+
+speaker_heading: SWANNEY
+
+dialog: Sure, sure. I've heard it before.
+
+speaker_heading: RENTON
+
+dialog: The Sick Boy method. They both look at Sick Boy
+
+speaker_heading: SWANNEY
+
+dialog: Yeah, well, it surely worked for him.
+
+speaker_heading: RENTON
+
+dialog: He's always been lacking in moral fibre.
+
+speaker_heading: SWANNEY
+
+dialog: He knows a lot about Sean Connery.
+
+speaker_heading: RENTON
+
+dialog: That's hardly a substitute.
+
+speaker_heading: SWANNEY
+
+dialog: you'll need one more hit.
+
+speaker_heading: RENTON
+
+dialog: No, I don't think so.
+
+speaker_heading: SWANNEY
+
+dialog: To see you through the night that lies ahead.
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+     We called him the mother superior on account of the length of his
+     habit. He knew all about it. On it, off it, he knew it all. Of
+     course I'd have another shot: after all, I had work to do.
+
+scene_heading:  INT. RENTON'S FLAT ROOM. DAY
+
+text: The door opens and Renton enters carrying shopping bags. He empties them on
+to a mattress beside three buckets and a television.
+
+speaker_heading: RENTON
+
+dialog: (v.o) Relinquishing junk. Stage One: preparation. For this you will
+     need: one room which you will not leave; one mattress; tomato
+     soup, ten tins of; mushroom soup, eight tins of, for consumption
+     cold; ice cream, vanilla, one large tub of; Magnesia, Milk of, one
+     bottle; paracetamol; mouth wash; vitamins; mineral water;
+     Lucozade; pornography; one bucket for urine, one for feces, and
+     one for vomitus; one television; and one bottle of Valium, which I
+     have already procured, from my mother, who is, in her own domestic
+     and socially acceptable way, also a drug addict.
+
+text: Renton swallows several Valium tablets. Voice-over continues.
+
+dialog: And now I'm ready. All I need is a final hit to soothe the pain
+     while the Valium takes effect.
+
+scene_heading:  INT. SWANNEY'S FLAT. DAY
+
+text: Swanney, Sick Boy, Spud and Allison and Baby all lie inert while the
+telephone rings.
+
+scene_heading:  INT. CALL BOX. DAY
+
+text: Renton curses as he slams down the receiver. He dials again.
+
+speaker_heading: RENTON
+
+dialog: Mikey. It's Mark Renton. Can you help me out?
+
+scene_heading:  INT. MIKEY'S FLAT. DAY
+
+text: Renton holds two opium suppositories in the palm of his hand.
+
+speaker_heading: RENTON
+
+dialog: (v.o)
+     This was typical of Mikey Forrester.
+                                 (on screen)
+     What the fuck are these?
+(v.o)
+     Under the normal run of things I would have had nothing to do with
+     the cunt, but this was not the normal run of things.
+
+speaker_heading: MIKEY
+
+dialog: Opium suppositories. Ideal for your purpose. Slow release, like.
+     Bring you down gradually. Custom fucking designed for your needs.
+
+speaker_heading: RENTON
+
+dialog:      I want a fucking hit.
+
+speaker_heading: MIKEY
+
+dialog: That's all I've got: take it or leave it.
+
+text: Renton sticks his hand down the back of his trousers and sticks the
+suppositories into his rectum.
+
+dialog: Feel better now?
+
+speaker_heading: RENTON
+
+dialog: For all the good they've done me I might as well have stuck them
+     up my arse.
+
+text: He smiles.
+
+scene_heading:  EXT. STREET. DAY
+
+speaker_heading: RENTON
+
+dialog:   (v.o)
+     Heroin makes you constipated. The heroin from my last hit is
+     fading away and the suppositories have yet to melt. I am no longer
+     constipated.
+
+text: He looks around the local amenities. He is in discomfort, clutching his
+abdomen and falling to his knees.
+He notices a betting shop.
+
+scene_heading:  INT. BETTING SHOP. DAY
+
+text: Renton walks through the crowded, smoky betting shop towards a door marked
+'toilet' with a bit of card.
+
+speaker_heading: RENTON
+
+dialog:   (v.o) I fantasize about massive pristine convenience.
+
+text: He stumbles through.
+
+dialog: (v.o)
+     Brilliant gold taps, virginal white marble, a seat carved from
+     ebony, a cistern full of Chanel No. 5, and a flunky handing me
+     pieces of raw silk toilet roll. But under the circumstances I'll
+     settle for anywhere.
+
+scene_heading:  INT. HORRIBLE TOILET. DAY
+
+text: This is the most horrible toilet in Britain.
+Alone, Renton makes his way through the horrors to a cubicle.
+
+scene_heading:  INT. HORRIBLE TOILET CUBICLE. DAY
+
+text: Renton locks the door.
+He looks into the bowl and winces with disgust, even in his state.
+He pulls the chain. The chain comes off.
+He drops his trousers, sits on the bowl and closes his eyes.
+
+scene_heading:  MONTAGE
+
+text: A lorry on a building site dumps a load of bricks, B52's shed their load on
+Vietnam, the Blue Peter elephant, etc.
+
+scene_heading:  INT. CUBICLE. DAY
+
+text: Renton has his eyes closed. They snap open.
+He looks down between his legs.
+He drops to his knees in front of the bowl and rolls his sleeve up.
+With no more hesitation he plunges his arm into the bowl and trawls for the
+suppositories.
+It seems to take ages. He cannot find them. He sticks his arm further and
+further into the toilet, moving his whole body close. He strains to find it.
+His head is over the bowl now. Gradually he reaches still further until his
+head is lowered into the bowl, followed by his neck, torso, other arm, and
+finally his legs, all disappearing.
+The cubicle is empty.
+
+scene_heading:  INT. UNDER WATER. DAY
+
+text: Renton, dressed as before, swims through murky depths until he reaches the
+bottom, where he picks up the suppositories, which glow like luminous
+pearls, before heading up towards the surface again.
+
+scene_heading:  INT. HORRIBLE TOILET CUBICLE. DAY
+
+text: The toilet is empty.
+Suddenly Renton appears through the bowl, then his arms as he lifts himself
+out. Still clasping his two suppositories, he walks out of the toilet.
+
+scene_heading:  INT. RENTON'S ROOM. DAY
+
+text: The mattress, buckets and supplies are laid out as before.
+The door opens and Renton enters, still soaking and dripping.
+The suppositories are in his hand. He holds them up, and they twinkle in the
+light.
+
+speaker_heading: RENTON
+
+dialog:      Now. Now I'm ready.
+
+scene_heading:  
+INT. RENTON'S ROOM. DAY
+
+text: The cans of soup, the bottle of water, and the carton of ice cream are
+empty, the bottle of pills spilt, the magazines well thumbed.
+
+speaker_heading: SICK BOY
+
+dialog: You Only Live Twice?
+
+speaker_heading: RENTON
+
+dialog: Nineteen-sixty-seven.
+
+speaker_heading: SICK BOY
+
+dialog: Director?
+
+speaker_heading: RENTON
+
+dialog: Lewis Gilbert.
+
+speaker_heading: SICK BOY
+
+dialog: Screenwriter?
+
+speaker_heading: RENTON
+
+dialog: Eh - Ian Fleming?
+
+speaker_heading: SICK BOY
+
+dialog: Fuck off! He never wrote any of them.
+
+speaker_heading: RENTON
+
+dialog: OK, so who was it, then?
+
+speaker_heading: SICK BOY
+
+dialog: You can look it up.
+
+text: Sick Boy throws across a worn copy of a film guide.
+Renton cannot be bothered to pick it up.
+
+dialog: How are you feeling since you came off the skag? For myself, I'm
+     bored.
+
+speaker_heading: RENTON
+
+dialog: Who wrote it?
+
+speaker_heading: SICK BOY
+
+dialog: But you're looking better, it has to be said. Healthier. Radiant
+     even.
+
+speaker_heading: RENTON
+
+dialog: You don't know, do you?
+
+speaker_heading: SICK BOY
+
+dialog: And I wondered if you'd care to go to the park tomorrow.
+
+speaker_heading: RENTON
+
+dialog: The park?
+
+speaker_heading: SICK BOY
+
+dialog: Tomorrow afternoon. Usual set-up.
+
+speaker_heading: RENTON
+
+dialog: Who wrote it?
+
+speaker_heading: SICK BOY
+
+dialog: Roald Dahl. Fuck me.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

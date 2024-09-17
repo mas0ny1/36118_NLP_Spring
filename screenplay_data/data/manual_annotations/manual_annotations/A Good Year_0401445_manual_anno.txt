@@ -1,0 +1,103 @@
+scene_heading: EXT. CHATEAU LA SIROQUE - LATE AFTERNOON i
+
+text: A rustic Provencal farmhouse, surrounded by rows of well-kept
+vines. Up above, the sky is a sparkling jewelbox of stars,
+Down below, all ig quiet, except for the chirrup of the
+cigales...
+
+scene_heading: EXT. FARMHOUSE - GARDEN - SAME 2 :
+
+text: A gorgeous trellis of jasmine and honeysuckle is lit by a :
+pair of flickering candles. Beneath it, MAX SKINNER, age 12, !
+sits alone, puffing a cigar while staring at a cheas board, ;
+pondering his next move. An old vadio broadcasts in
+French...
+
+speaker_heading: FRENCH DJ
+
+dialog: La prochaine chanson est exécutée
+ce soir par Josphine Baker...
+
+speaker_heading: MAX
+
+dialog: (practicing French)
+La pro-shane.,.shan-sone...est ex-6-
+cu-tée...
+
+text: Josephine Baker’s “Breezin’ Along With the Breeze" comes
+on...as Max’s eyes drift across the garden--
+
+scene_heading:  MAX’S POV - ENTRANCE TO THE WINE CELLAR
+
+text: A shaft of light spills out from the cellar. Downstairs, we
+can HEAR wine bottles being moved and RATTLED.
+BACK TO SCENE
+
+Max taps his ash. His eyes anxiously dart between the
+chessboard and the cellar entrance. Pinally, with the ease
+of an experienced con artist, Max slides his bishop one
+Square forward,,,just as he hears footsteps climbing the
+stairs. Max quickly crosses his arms, resuming his pose of
+deep contemplation.
+THE WINE CELLAR
+Emerging from the cellar ig Max’s UNCLE HENRY, early-50's,
+Uncle Henry is a sermonizing eccentric, with warm, knowing
+eyes, and the countenance of a man who hasn’t worked very
+hard for a very long time. He wears a pair of pajamas -~
+shirt-top opened, revealing a round Buddha belly. He puffs
+on a cigar, as he crosses the lawn, swinging a bottle of
+red...
+
+speaker_heading: UNCLE HENRY
+
+dialog: Max my boy -- seeing that it’s your
+last night here, I thought it only
+appropriate that we open something
+extra special...
+
+text: He presents the wine with the flourish of a waiter,
+
+speaker_heading: UNCLE HENRY
+
+dialog: Tempier Bandol. 1969. The kind of
+wine that’1l pickle even the
+toughest of men... I once saw a
+Castilian prizefighter collapse
+into a heap after drinking just a
+single glass. Of course, my knee
+landing squarely on his testicles
+may have been partly to biame.
+
+text: He begins opening the bottle.
+
+speaker_heading: UNCLE HENRY
+
+dialog: What was I talking about before?
+
+speaker_heading: . MAX
+
+dialog: Blue suits.
+
+speaker_heading: UNCLE HENRY
+
+dialog: Blue suits?
+
+speaker_heading: MAX
+
+dialog: You said the importance of a good
+blue suit can never be overstated
+
+speaker_heading: UNCLE HENRY
+
+dialog: Quite right. A blue suit is the
+most versatile of accoutrements...
+But even more important than the
+suit itself is the tailor who fits
+it for you. Take note, Max: once
+you find a good tailor, you're not
+to give his name away -- not even
+under the threat of bodily harm.
+
+text: Uncle Henry pours a glass for himself. One for Max. Then
+spills a little water into Max‘’s glass, just to soften it a
+bit. He takes a seat.

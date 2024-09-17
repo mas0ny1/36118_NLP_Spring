@@ -1,0 +1,346 @@
+scene_heading: INT.  MIAMI AIRPORT, TERMINAL -- DAY
+
+text: Amongst the weary tourist families and solitary businessmen
+     sits TOM WELLES, middle-aged, hair neat, suit crisp and
+     gray.  He's eating crackers from a cellophane package,
+     sipping soda from a paper cup, watching an ARRIVAL GATE.
+
+scene_heading: AT THE GATE
+
+text: PASSENGERS arrive: the paunchy, graying men of First Class
+     leading the pack, except for a handsome YOUNG REPUBLICAN
+     poster boy hurrying along.
+
+scene_heading: ACROSS THE TERMINAL
+
+text: Welles gets up and FOLLOWS...
+
+scene_heading: EXT.  MIAMI AIRPORT, CURBSIDE -- DAY
+
+text: Welles comes outside, squinting in the sun, moving down the
+     sidewalk, looking back over his shoulder...
+     The Young Republican is lead to a waiting LIMO by a DRIVER.
+     Welles moves to the nearby TAXI STAND...
+
+scene_heading: INT.  TAXI -- DAY
+
+text: Welles gets in, turning in his seat to watch behind.
+
+speaker_heading: CAB DRIVER
+
+dialog: Where to?
+
+text: Welles keeps watching, sees the limo pull away and pass.
+
+speaker_heading: WELLES
+
+dialog: Follow that limousine.  Don't get
+               too close, don't let it get too far
+               away.  Just keep with it.
+
+speaker_heading: CAB DRIVER
+
+dialog: You kidding?
+
+speaker_heading: WELLES
+
+dialog: Nope.
+
+text: The cab set in motion.  Welles takes out cigarettes,
+     lighting one, takes out a small NOTEPAD and makes notations.
+
+speaker_heading: CAB DRIVER
+
+dialog: Uh, listen... you're not supposed to
+               be smoking in here.  I'm sorry,
+               that's company policy...
+
+speaker_heading: WELLES
+
+dialog: How about this... every cigarette I
+               smoke, I give you five dollars?
+
+speaker_heading: CAB DRIVER
+
+dialog: Okay... okay, yeah, that'd be good...
+
+scene_heading: EXT.  MIAMI BEACH, "GOLD COAST" -- DAY
+
+text: In front of an Art Deco hotel, the driver opens the
+     limousine door and the Young Republican steps out. 
+
+scene_heading: ACROSS THE STREET 
+
+text: Welles watches from inside the double-parked taxicab. 
+
+scene_heading: EXT.  MIAMI BEACH MOTOR LODGE -- DAY 
+
+text: Not exactly four-star.  
+
+scene_heading: INT.  MIAMI BEACH MOTOR LODGE -- DAY
+
+text: Welles is asleep on the bed, full dressed, hands folded
+     across his stomach, snoring lightly, sweaty. 
+
+scene_heading: INT.  MIAMI BEACH MOTOR LODGE, RESTAURANT -- DAY 
+
+text:  Welles sits alone at the bar, eating a sandwich, bored.  He
+     watches some fuzzy ESPN on the t.v., looks at his watch.
+
+scene_heading: EXT.  MIAMI BEACH MOTOR LODGE -- DAY 
+
+text: Welles walks across the parking lot, gets into his RENTAL
+     CAR, starts it and drives away. 
+
+scene_heading: EXT.  MIAMI BEACH DISCOTHEQUE -- NIGHT 
+
+text: Young Republican and a GAUDY WOMAN exit the disco, MUSIC
+     THROBBING out from the doors behind them.  They join hands,
+     drunk, heading to the street, looking for their limo. 
+
+scene_heading: DOWN THE STREET
+
+text: Welles is seated in his parked rental car, raises a CAMERA
+     with TELEPHOTO LENS: whir, CLICK, whir, CLICK, whir, CLICK...
+     Welles lowers the camera, letting out a yawn. 
+
+scene_heading: INT.  AIRPLANE, COACH -- NIGHT 
+
+text: The familiar DRONE of flight.  Welles is shoehorned into his
+     aisle seat, using tiny utensils to eat his tiny meal.
+	An OLDER WOMAN arrives in the aisle.  Welles picks up his
+     tray, closes his tray table, unbuckling his seatbelt,
+     struggling to get up... finally successful, balancing his
+     tray, letting the woman in to the window seat. 
+
+speaker_heading: OLDER WOMAN
+
+dialog: Thank you. 
+
+text: Welles nods, forcing a smile, sitting back down.  He returns
+     to toiling over his miniature supper. 
+
+scene_heading: EXT.  HARRISBURG INTERNATIONAL AIRPORT -- NIGHT 
+
+text: Welles' AIRPLANE ROARS down with a SCREECH, landing lights
+     gleaming.  The airport is small, relatively isolated.
+
+scene_heading: TITLE:      Harrisburg, Pennsylvania
+
+scene_heading: INT.  HARRISBURG INTERNATIONAL AIRPORT -- NIGHT
+
+text: Passengers arrive.  Welles is with them, searching the few
+     PEOPLE waiting in the terminal hallway.  Welles smiles...
+     Welles' wife, AMY, smiles when she sees him.  She's plain
+     and pretty, holding one hand on a BABY STROLLER beside her.
+     Welles comes to her, embracing her, appreciating her.
+
+speaker_heading: AMY
+
+dialog: Welcome home.
+
+speaker_heading: WELLES
+
+dialog: Do you know how much I missed you?
+
+text: They kiss, but Amy pulls away, sniffs him.
+
+speaker_heading: AMY
+
+dialog: What's this... have you been
+                 smoking... ? 
+
+speaker_heading: WELLES 
+
+dialog: You know, Amy, I've been sitting
+                 around in bars and everywhere
+                 following this guy... I mean, is
+                 this what I get first thing?  Before
+                 you even "hello," you accuse me... ?
+
+speaker_heading: AMY
+
+dialog: I'm not accusing you... 
+
+speaker_heading: WELLES 
+
+dialog: Well, I'm not smoking, okay? 
+
+speaker_heading: AMY
+
+dialog: Okay, I believe you. 
+
+speaker_heading: WELLES 
+
+dialog: We've been all through that.  I've
+                 been on my best behavior.
+
+text: Welles bends to the stroller, picks up his infant daughter,
+     CINDY, and hoists her in the air, overjoyed. 
+
+speaker_heading: WELLES 
+
+dialog: Hello, pumpkin-head, did you miss
+                 me?  I sure missed you... 
+
+text: He kisses the happy child, holding her in one arm. 
+
+speaker_heading: WELLES 
+
+dialog: Let's get my bags and get the hell
+                 out of here.
+
+text: Welles pulls Amy close and kisses her again, leads the way.
+     Amy follows, pushing the stroller. 
+
+speaker_heading: AMY
+
+dialog: How's the detective business?
+
+speaker_heading: WELLES 
+
+dialog: Business was fine.  I'll tell you
+                 what, you couldn't pay me enough to
+                 live down there. 
+
+speaker_heading: AMY
+
+dialog: You better not be smoking, that's
+                 all I can say. 
+
+speaker_heading: WELLES 
+
+dialog: Honey, I'm not, please... 
+
+text: Amy takes Welles hand, smiling at him. 
+
+scene_heading: INT.  WELLES' HOUSE, BEDROOM -- NIGHT
+
+text: Welles and Amy make love in the darkness.  Standard,
+     missionary position sex, little passion.  They slow to a
+     finish, uneventfully, holding each other.  Their breathing
+     quiets.  Their daughter CINDY can be HEARD CRYING elsewhere.
+     Welles kisses his wife again, rolls off of her and sits on
+     the edge of the bed.  Amy covers herself. 
+
+speaker_heading: AMY
+
+dialog: I love you.
+
+speaker_heading: WELLES 
+
+dialog: I love you.
+
+text: He looks towards her in the dark.  He gets up, gets a towel
+     from the bathroom and wraps it around him. 
+
+scene_heading: INT.  WELLES' HOUSE, BABY'S ROOM -- NIGHT 
+
+text: Cindy's crying.  Welles enters, goes to lean into the crib.
+
+speaker_heading: WELLES 
+
+dialog: What's all the trouble, Cinderella?
+                 What are you crying about, huh? 
+
+text: He lifts and cradles Cindy, comforting her. 
+
+scene_heading: EXT.  HARRISBURG CITYSCAPE -- ESTABLISHING --DAY 
+
+text: A small city of moderate architecture facing the Susquehanna.
+
+scene_heading: INT.  OFFICE -- DAY 
+
+text: An old money office with windows over the river.  A well-to-
+     do POLITICIAN looks unhappily through PHOTOS on his desk.
+     Welles sits by the Pennsylvania state flag, watching.
+     PHOTOS show the Young Republican and Gaudy Woman in Miami:
+     leaving the Art Deco hotel, the Discotheque, a restaurant...
+
+speaker_heading: WELLES 
+
+dialog: Your son-in-law dealt with the dry
+                 cleaning franchise during the day,
+                 saw that woman every night. 
+                       (clears his throat) 
+                 The specifics are in the report, and
+                 information about the woman.  It's
+                 unpleasant, I know.  I apologize... 
+
+speaker_heading: POLITICIAN 
+
+dialog: None too discreet, is he? 
+
+speaker_heading: WELLES 
+
+dialog: No, sir, he is not.
+
+speaker_heading: POLITICIAN 
+
+dialog: He's an imbecile.  I tried to warn
+                 my daughter, but what can you do? 
+
+text: The politician shakes his head in disgust.  Welles rises. 
+
+speaker_heading: WELLES 
+
+dialog: The um... you'll find my invoice in
+                 the envelope. If that's all...
+
+speaker_heading: POLITICIAN 
+
+dialog: Yes, Mister Welles, thank you. 
+
+speaker_heading: WELLES 
+
+dialog: Certainly, Senator.  If I can ever
+                 be of further assistance.
+
+text: Welles leaves, glances back, shuts the door. 
+
+scene_heading: EXT.  HARRISBURG STREETS -- DAY
+
+text: Welles drives his plain Ford past the CAPITAL BUILDING. 
+
+scene_heading: EXT.  HARRISBURG, BRIDGE -- DAY 
+
+text: Welles' car crosses the Susquehanna, leaving the city. 
+
+scene_heading: EXT.  WELLES' HOUSE, BACKYARD -- DAY 
+
+text: Sunny day.  Welles wears tan khakis, T-shirt and fishing
+     cap, mowing his lawn with his ROARING lawnmower.  Welles'
+     yard is modest, surrounding his modest split level suburban
+     one in a neighborhood of similar homes and similar yards.
+     Welles turns the lawnmower, stopping to mop his brow.  One
+     of his neighbors is repainting a back porch.  The neighbor
+     waves.  Welles waves, resumes mowing. 
+scene_heading: INT.  BOWLING ALLEY -- NIGHT
+
+text: MUSIC'S LOUD.  League Night.  Every lane full.  Welles is
+     with his team in BOWLING SHIRTS.  Welles hoists his ball,
+     preparing to bowl.  He takes three steps, releases...
+     Down the lane, PINS SCATTER.  One pin remains standing.
+     Welles balls up his fists and curses, walks back towards his
+     rowdy, mocking teammates.  He shouts back at them, laughing,
+     grabbing his beer and drinking, waiting at the ball return. 
+
+scene_heading: INT.  WELLES' HOUSE, KITCHEN -- NIGHT 
+
+text: Dinner.  Welles and Amy eat at the kitchen table with Cindy
+     in a high chair.  Amy feeds Cindy between bites.  Welles is
+     still in his league shirt. 
+
+speaker_heading: AMY 
+
+dialog: You think you'll have time for the
+                 water heater this weekend?
+
+speaker_heading: WELLES 
+
+dialog: Sure.  I'll call the guy.
+
+speaker_heading: AMY 
+
+dialog: You're not using the same guy who
+                 tried to fix it? 
