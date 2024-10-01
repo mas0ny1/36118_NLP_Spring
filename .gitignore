@@ -1,4 +1,7 @@
-
+/.ipynb_checkpoints
+/.pytest_cache
+/df_aus.csv
+/df_clean.csv
 /screenplay_data
 /movie_characters
 /movie_metadata
