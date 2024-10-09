@@ -61,3 +61,44 @@ def delete_cuts(dict_list):
             # then append to list
             dicts_uncut.append(d)
     return dicts_uncut 
+
+# function to remove irrelevant location info 'EXT|INT'
+def remove_location(sentences):
+    return [sent for sent in sentences if sent not in ['EXT.', 'INT.', 'ext.', 'int.']]
+
+# function to remove empty sentences 
+def remove_empties(sentences):
+    return [sent for sent in sentences if sent]
+
+# check if a token contains letters
+def contains_letters(token):
+    return bool(re.search(r'[a-zA-Z]', token))
+
+# function for rejoining dict data back into text
+def join_json(data):
+    # empty list for storing joined lines (one line per dict)
+    joined_lines = []
+    # iterate through dicts
+    for d in data:
+        # unpack keys and values
+        for key, value in d.items():
+            # convert key to string label with an escape char
+            label = '@' + str(key) + ':'
+            # append label to corpus
+            joined_lines.append(label)
+            # create an empty list for joined sentences 
+            joined_sentences = []
+            # iterate through sentences in value
+            for sentence in value:
+                # join the sentences with " " 
+                joined_sentence = " ".join(sentence)
+                # append joined_sentence to joined_sentences
+                joined_sentences.append(joined_sentence)
+            # now join the sentences in joined_sentences with ". "
+            sentences_in_line = ". ".join(joined_sentences)
+            # append this line to the joined_lines list
+            joined_lines.append(sentences_in_line)
+    # now join all the lines in joined_lines with "\n"
+    screenplay_text = " \n ".join(joined_lines)
+    # and return the text
+    return screenplay_text
