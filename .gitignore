@@ -1,2 +1,7 @@
 archive/
 archive.zip
+# I need this in here whenever I checkout your branch 
+CSVs/
+data_splits/
+notebooks/
+.ipynb_checkpoints/
