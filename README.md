@@ -10,6 +10,7 @@ The primary objective of this project is to develop a Natural Language Processin
 For the frontfacing Streamlit app, please see the following repository which is linked below.   
 
 Due to file size constraints on GitHub. The full model was unable to be deployed on Streamlit, however a lightweight version utilising the TF-IDF Logistic Regression model can via the following link: https://screenplayrating.streamlit.app/  
+
 With the repository for this linked below:  
 https://github.com/phillipgrant/screenplay_rating_app
 
