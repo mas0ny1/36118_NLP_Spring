@@ -1,5 +1,6 @@
 # Assessment task 2: End-to-end NLP project
 # 36118 Applied Natural Language Processing - Spring 2024
+# Group 1
 
 Dataset Download Link
 https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus?resource=download  
